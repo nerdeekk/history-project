@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # Page Configuration
 st.set_page_config(
     page_title="History of Kazakhstan | Learning Platform",
-    page_icon="🇰🇿",
+    page_icon="📚",
     layout="centered"
 )
 
@@ -81,7 +81,7 @@ with tab_test:
             st.write("📌 **Rules:**")
             st.write("• You can freely switch between questions using the number buttons.")
             st.write("• Answered questions are marked with a checkmark.")
-            st.write("• Click **«Submit Test»** once you have answered all questions.")
+            st.write("• All questions must be answered before submitting the test.")
             
             if st.button("🚀 Start Test", type="primary", use_container_width=True):
                 start_new_test()
@@ -158,10 +158,14 @@ with tab_test:
 
             with col_finish:
                 if st.button("🏁 Submit Test", type="primary", use_container_width=True):
-                    if len(st.session_state.user_answers) < num_questions:
-                        st.warning(f"You have answered only {len(st.session_state.user_answers)} out of {num_questions} questions!")
-                    st.session_state.test_submitted = True
-                    st.rerun()
+                    answered_count = len(st.session_state.user_answers)
+                    if answered_count < num_questions:
+                        st.warning(
+                            f"⚠️ You cannot submit the test yet! You have answered {answered_count} out of {num_questions} questions. Please answer all remaining questions."
+                        )
+                    else:
+                        st.session_state.test_submitted = True
+                        st.rerun()
 
         # SCREEN 3: RESULTS
         elif st.session_state.test_submitted:
