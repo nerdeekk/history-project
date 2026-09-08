@@ -4,14 +4,14 @@ import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Настройка страницы
+# Page Configuration
 st.set_page_config(
-    page_title="История Казахстана | Учебная платформа",
+    page_title="History of Kazakhstan | Learning Platform",
     page_icon="🇰🇿",
     layout="centered"
 )
 
-# Загрузка данных из JSON
+# Load Questions from JSON
 @st.cache_data
 def load_questions():
     try:
@@ -22,7 +22,7 @@ def load_questions():
 
 questions_data = load_questions()
 
-# Инициализация состояния сессии (st.session_state)
+# Session State Initialization
 if "test_started" not in st.session_state:
     st.session_state.test_started = False
 if "test_submitted" not in st.session_state:
@@ -36,7 +36,7 @@ if "current_questions" not in st.session_state:
 if "variant_name" not in st.session_state:
     st.session_state.variant_name = ""
 
-# Функция запуска нового теста
+# Function to Start a New Test Session
 def start_new_test():
     st.session_state.test_started = True
     st.session_state.test_submitted = False
@@ -44,51 +44,50 @@ def start_new_test():
     st.session_state.user_answers = {}
 
     if isinstance(questions_data, dict):
-        # Если JSON разбит по ключам: {"Вариант 1": [...], "Вариант 2": [...]}
         variant_key = random.choice(list(questions_data.keys()))
         st.session_state.variant_name = variant_key
         st.session_state.current_questions = questions_data[variant_key]
     elif isinstance(questions_data, list):
-        # Если JSON — плоский список вопросов, делим на 3 варианта по 10 вопросов
         total = len(questions_data)
         if total >= 30:
             var_num = random.randint(1, 3)
             chunk_size = total // 3
             start_idx = (var_num - 1) * chunk_size
             end_idx = start_idx + chunk_size if var_num < 3 else total
-            st.session_state.variant_name = f"Вариант {var_num}"
+            st.session_state.variant_name = f"Variant {var_num}"
             st.session_state.current_questions = questions_data[start_idx:end_idx]
         else:
-            st.session_state.variant_name = "Случайный вариант"
+            st.session_state.variant_name = "Random Variant"
             st.session_state.current_questions = questions_data
 
-st.title("🇰🇿 Платформа проверки знаний: История Казахстана")
-st.caption("Первый групповой проект | Раздел тестирования и эссе")
+# Main Header
+st.title("History of Kazakhstan: Testing and Essay Verification")
+st.caption("First Group Project | Testing & Essay Plagiarism Check")
 
-tab_test, tab_essay = st.tabs(["📝 Тестирование", "📄 Проверка Эссе"])
+tab_test, tab_essay = st.tabs(["📝 Testing", "📄 Essay Verification"])
 
 # ==========================================
-# ВКЛАДКА 1: МОДУЛЬ ТЕСТИРОВАНИЯ (ЕНТ-СТИЛЬ)
+# TAB 1: TESTING MODULE
 # ==========================================
 with tab_test:
     if not questions_data:
-        st.error("Файл questions.json не найден или пуст! Положите файл questions.json в папку с проектом.")
+        st.error("The questions.json file was not found or is empty! Please place questions.json in the project directory.")
     else:
-        # ЭКРАН 1: ПРИВЕТСТВИЕ И КНОПКА "НАЧАТЬ ТЕСТ"
+        # SCREEN 1: WELCOME & START BUTTON
         if not st.session_state.test_started:
-            st.header("Тест по истории Казахстана")
-            st.info("Вам будет случайно назначен один из вариантов тестирования. Формат проведения аналогичен ЕНТ.")
+            st.header("History of Kazakhstan Test")
+            st.info("You will be randomly assigned one of the test variants. The test format is structured similarly to the UNT exam.")
             
-            st.write("📌 **Правила:**")
-            st.write("• Вы можете свободно переключаться между вопросами с помощью кнопок номеров.")
-            st.write("• Завершенный ответ подсвечивается галочкой.")
-            st.write("• Нажмите **«Завершить тест»** после заполнения всех ответов.")
+            st.write("📌 **Rules:**")
+            st.write("• You can freely switch between questions using the number buttons.")
+            st.write("• Answered questions are marked with a checkmark.")
+            st.write("• Click **«Submit Test»** once you have answered all questions.")
             
-            if st.button("🚀 Начать тест", type="primary", use_container_width=True):
+            if st.button("🚀 Start Test", type="primary", use_container_width=True):
                 start_new_test()
                 st.rerun()
 
-        # ЭКРАН 2: ТЕСТ ИДЕТ
+        # SCREEN 2: TEST IN PROGRESS
         elif st.session_state.test_started and not st.session_state.test_submitted:
             q_list = st.session_state.current_questions
             num_questions = len(q_list)
@@ -96,8 +95,8 @@ with tab_test:
 
             st.subheader(f"📌 {st.session_state.variant_name}")
             
-            # --- ЕНТ Панель навигации по номерам (сетка 10 кнопок в ряд) ---
-            st.write("**Навигация по вопросам:**")
+            # Question Navigation Bar
+            st.write("**Question Navigation:**")
             cols_per_row = 10
             for row_start in range(0, num_questions, cols_per_row):
                 cols = st.columns(cols_per_row)
@@ -107,7 +106,6 @@ with tab_test:
                         is_answered = q_idx in st.session_state.user_answers
                         is_current = (q_idx == curr_i)
                         
-                        # Формируем метку кнопки
                         label = f"{'▶' if is_current else ''}{q_idx + 1}{'✓' if is_answered else ''}"
                         
                         if cols[i].button(
@@ -121,53 +119,51 @@ with tab_test:
 
             st.markdown("---")
 
-            # --- Отображение текущего вопроса ---
+            # Current Question Display
             q_item = q_list[curr_i]
             options_dict = q_item['options']
 
-            st.markdown(f"### Вопрос {curr_i + 1} из {num_questions}")
+            st.markdown(f"### Question {curr_i + 1} of {num_questions}")
             st.markdown(f"**{q_item['question']}**")
 
-            # Значение по умолчанию, если пользователь уже отвечал на этот вопрос
             previous_answer = st.session_state.user_answers.get(curr_i, None)
             
             selected_option = st.radio(
-                "Выберите вариант ответа:",
+                "Select an answer option:",
                 options=list(options_dict.keys()),
                 format_func=lambda k: f"{k}) {options_dict[k]}",
                 index=list(options_dict.keys()).index(previous_answer) if previous_answer in options_dict else None,
                 key=f"radio_q_{curr_i}"
             )
 
-            # Сохранение ответа в память
             if selected_option is not None:
                 st.session_state.user_answers[curr_i] = selected_option
 
             st.markdown("---")
 
-            # --- Нижная панель навигации ---
+            # Navigation Controls
             col_prev, col_next, col_finish = st.columns([1, 1, 1])
 
             with col_prev:
                 if curr_i > 0:
-                    if st.button("⬅️ Предыдущий", use_container_width=True):
+                    if st.button("⬅️ Previous", use_container_width=True):
                         st.session_state.current_q_index -= 1
                         st.rerun()
 
             with col_next:
                 if curr_i < num_questions - 1:
-                    if st.button("Следующий ➡️", use_container_width=True):
+                    if st.button("Next ➡️", use_container_width=True):
                         st.session_state.current_q_index += 1
                         st.rerun()
 
             with col_finish:
-                if st.button("🏁 Завершить тест", type="primary", use_container_width=True):
+                if st.button("🏁 Submit Test", type="primary", use_container_width=True):
                     if len(st.session_state.user_answers) < num_questions:
-                        st.warning(f"Вы ответили только на {len(st.session_state.user_answers)} из {num_questions} вопросов!")
+                        st.warning(f"You have answered only {len(st.session_state.user_answers)} out of {num_questions} questions!")
                     st.session_state.test_submitted = True
                     st.rerun()
 
-        # ЭКРАН 3: РЕЗУЛЬТАТЫ
+        # SCREEN 3: RESULTS
         elif st.session_state.test_submitted:
             q_list = st.session_state.current_questions
             total = len(q_list)
@@ -177,25 +173,25 @@ with tab_test:
                 if st.session_state.user_answers.get(idx) == item['correctAnswer']
             )
 
-            st.header("🎉 Результаты тестирования")
-            st.subheader(f"Ваш результат: **{score} из {total}** ({round(score/total * 100, 1)}%)")
+            st.header("🎉 Test Results")
+            st.subheader(f"Your score: **{score} out of {total}** ({round(score/total * 100, 1)}%)")
 
             if score / total >= 0.7:
-                st.success("Отличный результат! Вы успешно сдали тест.")
+                st.success("Great job! You have successfully passed the test.")
             else:
-                st.error("Есть ошибки. Рекомендуется повторить материал.")
+                st.error("Some answers were incorrect. We recommend reviewing the course material.")
 
             st.write("---")
-            if st.button("🔄 Пройти другой вариант", type="primary"):
+            if st.button("🔄 Take Another Variant", type="primary"):
                 start_new_test()
                 st.rerun()
 
 # ==========================================
-# ВКЛАДКА 2: МОДУЛЬ АНТИПЛАГИАТА
+# TAB 2: PLAGIARISM CHECK MODULE
 # ==========================================
 with tab_essay:
-    st.header("Проверка эссе на оригинальность")
-    st.write("Вставьте текст эссе для автоматической проверки по базе источников.")
+    st.header("Essay Originality Check")
+    st.write("Paste your essay text below for automated comparison against reference sources.")
     
     reference_corpus = [
         "In the middle of the 4th century, Huns reached the borders of the Roman Empire.",
@@ -203,11 +199,11 @@ with tab_essay:
         "Kenesary Kasymov led the national liberation uprising from 1837 to 1847."
     ]
     
-    essay_text = st.text_area("Введите текст эссе:", height=200)
+    essay_text = st.text_area("Enter essay text:", height=200)
     
-    if st.button("Проверить уникальность"):
+    if st.button("Check Originality"):
         if len(essay_text.strip()) < 30:
-            st.warning("Текст эссе слишком короткий. Введите не менее 30 символов.")
+            st.warning("The essay text is too short. Please enter at least 30 characters.")
         else:
             documents = [essay_text] + reference_corpus
             vectorizer = TfidfVectorizer().fit_transform(documents)
@@ -218,10 +214,10 @@ with tab_essay:
             
             uniqueness = round((1 - max_similarity) * 100, 1)
             
-            st.subheader("Результат анализа:")
-            st.metric(label="Процент уникальности", value=f"{uniqueness}%")
+            st.subheader("Analysis Results:")
+            st.metric(label="Uniqueness Score", value=f"{uniqueness}%")
             
             if uniqueness < 70:
-                st.error("⚠️ Обнаружен высокий процент заимствований. Эссе требует доработки.")
+                st.error("⚠️ High percentage of matches detected. The essay requires revision.")
             else:
-                st.success("✅ Эссе успешно прошло проверку на уникальность.")
+                st.success("✅ Essay successfully passed the uniqueness check.")
