@@ -1,8 +1,12 @@
 import json
 import random
+import time
 import streamlit as st
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+
+# 10 minutes limit in seconds
+TEST_DURATION_SECONDS = 10 * 60 
 
 # Page Configuration
 st.set_page_config(
@@ -35,6 +39,10 @@ if "current_questions" not in st.session_state:
     st.session_state.current_questions = []
 if "variant_name" not in st.session_state:
     st.session_state.variant_name = ""
+if "start_time" not in st.session_state:
+    st.session_state.start_time = None
+if "time_out" not in st.session_state:
+    st.session_state.time_out = False
 
 # Function to Start a New Test Session
 def start_new_test():
@@ -42,6 +50,8 @@ def start_new_test():
     st.session_state.test_submitted = False
     st.session_state.current_q_index = 0
     st.session_state.user_answers = {}
+    st.session_state.start_time = time.time()
+    st.session_state.time_out = False
 
     if isinstance(questions_data, dict):
         variant_key = random.choice(list(questions_data.keys()))
@@ -59,6 +69,21 @@ def start_new_test():
         else:
             st.session_state.variant_name = "Random Variant"
             st.session_state.current_questions = questions_data
+
+# Live Updating Timer Fragment
+@st.fragment(run_every=1)
+def render_live_timer():
+    if st.session_state.start_time and st.session_state.test_started and not st.session_state.test_submitted:
+        elapsed = time.time() - st.session_state.start_time
+        remaining = TEST_DURATION_SECONDS - elapsed
+
+        if remaining <= 0:
+            st.session_state.test_submitted = True
+            st.session_state.time_out = True
+            st.rerun()
+
+        mins, secs = divmod(max(0, int(remaining)), 60)
+        st.metric(label="⏳ Time Remaining", value=f"{mins:02d}:{secs:02d}")
 
 # Main Header
 st.title("History of Kazakhstan: Testing and Essay Verification")
@@ -79,9 +104,10 @@ with tab_test:
             st.info("You will be randomly assigned one of the test variants. The test format is structured similarly to the UNT exam.")
             
             st.write("📌 **Rules:**")
+            st.write("• You have **10 minutes** to complete the test.")
             st.write("• You can freely switch between questions using the number buttons.")
             st.write("• Answered questions are marked with a checkmark.")
-            st.write("• All questions must be answered before submitting the test.")
+            st.write("• Unanswered questions will be counted as incorrect upon submission or time expiry.")
             
             if st.button("🚀 Start Test", type="primary", use_container_width=True):
                 start_new_test()
@@ -93,8 +119,12 @@ with tab_test:
             num_questions = len(q_list)
             curr_i = st.session_state.current_q_index
 
-            st.subheader(f"📌 {st.session_state.variant_name}")
-            
+            col_title, col_timer = st.columns([2, 1])
+            with col_title:
+                st.subheader(f"📌 {st.session_state.variant_name}")
+            with col_timer:
+                render_live_timer()
+
             # Question Navigation Bar
             st.write("**Question Navigation:**")
             cols_per_row = 10
@@ -158,14 +188,8 @@ with tab_test:
 
             with col_finish:
                 if st.button("🏁 Submit Test", type="primary", use_container_width=True):
-                    answered_count = len(st.session_state.user_answers)
-                    if answered_count < num_questions:
-                        st.warning(
-                            f"⚠️ You cannot submit the test yet! You have answered {answered_count} out of {num_questions} questions. Please answer all remaining questions."
-                        )
-                    else:
-                        st.session_state.test_submitted = True
-                        st.rerun()
+                    st.session_state.test_submitted = True
+                    st.rerun()
 
         # SCREEN 3: RESULTS
         elif st.session_state.test_submitted:
@@ -178,12 +202,20 @@ with tab_test:
             )
 
             st.header("🎉 Test Results")
+
+            if st.session_state.time_out:
+                st.warning("⏰ Time's up! The 10-minute time limit expired, and your test was submitted automatically.")
+
+            answered_count = len(st.session_state.user_answers)
+            unanswered_count = total - answered_count
+
             st.subheader(f"Your score: **{score} out of {total}** ({round(score/total * 100, 1)}%)")
+            st.caption(f"Answered: {answered_count} | Unanswered (Incorrect): {unanswered_count}")
 
             if score / total >= 0.7:
                 st.success("Great job! You have successfully passed the test.")
             else:
-                st.error("Some answers were incorrect. We recommend reviewing the course material.")
+                st.error("Some answers were incorrect or left blank. We recommend reviewing the course material.")
 
             st.write("---")
             if st.button("🔄 Take Another Variant", type="primary"):
