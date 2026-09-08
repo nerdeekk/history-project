@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "question": "In the middle of the 4th century, they reached the borders of the Roman Empire.",
+    "options": {
+      "A": "Karluks",
+      "B": "Huns",
+      "C": "Khitan",
+      "D": "Sakas"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 2,
+    "question": "For particularly outstanding, repeated feats in battles, the title was awarded.",
+    "options": {
+      "A": "Aksakal",
+      "B": "Taksyr",
+      "C": "Tolu Batyr",
+      "D": "Tore"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 3,
+    "question": "A combined army of 60,000 soldiers took part in the battle against the Dzungars at:",
+    "options": {
+      "A": "Bulanty",
+      "B": "Orbulak",
+      "C": "Ayagus",
+      "D": "Anyrakai"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 4,
+    "question": "At the beginning of the 20th century, which of the following was built?",
+    "options": {
+      "A": "Orenburg-Tashkent railway",
+      "B": "Irtysh-Karaganda water canal",
+      "C": "Kapchagay power plant",
+      "D": "Shulbinsk hydroelectric power station"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 5,
+    "question": "In 1956, Stalin's cult of personality was condemned at:",
+    "options": {
+      "A": "XIX Party Conference",
+      "B": "Plenum of the Central Committee of the CPC",
+      "C": "XXVII Congress of the CPSU",
+      "D": "The 20th Congress of the CPSU"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "id": 6,
+    "question": "Who recorded the Kyrgyz epic \"Manas\"?",
+    "options": {
+      "A": "Abay Kunanbaev",
+      "B": "Ybray Altynsarin",
+      "C": "Shokan Ualikhanov",
+      "D": "Alikhan Bukeikhanov"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 7,
+    "question": "The nomads of the Late Bronze Age were proficient in:",
+    "options": {
+      "A": "Secrets of paint making",
+      "B": "Dam construction techniques",
+      "C": "The art of smelting metals",
+      "D": "Porcelain making techniques"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 8,
+    "question": "What was the capital of the White Horde?",
+    "options": {
+      "A": "Otrar",
+      "B": "Uzgend",
+      "C": "Sygnak",
+      "D": "Tashkent"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Who was the author of the 1824 reform in the Little Horde?",
+    "options": {
+      "A": "O. Igelstrom",
+      "B": "P. Essen",
+      "C": "N. Konshin",
+      "D": "M. Speransky"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 10,
+    "question": "During the Great Patriotic War (1941–1945), who demonstrated exceptional courage and heroism in the Battle of Moscow?",
+    "options": {
+      "A": "S. Nurmaganbetov",
+      "B": "N. Abdirov",
+      "C": "B. Momyshuly",
+      "D": "J. Eleusov"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 11,
+    "question": "In what year was the Kazakh Khanate formed?",
+    "options": {
+      "A": "1219",
+      "B": "1465",
+      "C": "1731",
+      "D": "1917"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 12,
+    "question": "Who are considered the founders of the Kazakh Khanate?",
+    "options": {
+      "A": "Kasym and Khaknazar",
+      "B": "Kerey and Zhanibek",
+      "C": "Abylay and Kenesary",
+      "D": "Yesim and Tauke"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 13,
+    "question": "What was the name of Kasym Khan's code of laws?",
+    "options": {
+      "A": "Zheti Zhargy",
+      "B": "Kasym Khan's Qasqa Zholy",
+      "C": "Yesim Khan's Eski Zholy",
+      "D": "Yasa"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Who was the author of the code of laws \"Zheti Zhargy\"?",
+    "options": {
+      "A": "Kasim Khan",
+      "B": "Yesim Khan",
+      "C": "Tauke Khan",
+      "D": "Abylai Khan"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 15,
+    "question": "In what year did the national liberation uprising of Kenesary Kasymov begin?",
+    "options": {
+      "A": "1783",
+      "B": "1836",
+      "C": "1837",
+      "D": "1916"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Who led the uprising of 1783–1797?",
+    "options": {
+      "A": "Isatay Taimanov",
+      "B": "Syrym Datuly",
+      "C": "Kenesary Kasymov",
+      "D": "Makhambet Utemisov"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 17,
+    "question": "When did the uprising led by Isatay Taimanov and Makhambet Utemisov take place?",
+    "options": {
+      "A": "1836–1838",
+      "B": "1837–1847",
+      "C": "1783–1797",
+      "D": "1916"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 18,
+    "question": "In what year did the uprising against the tsarist regime in Kazakhstan, triggered by the mobilization decree, take place?",
+    "options": {
+      "A": "1905",
+      "B": "1916",
+      "C": "1917",
+      "D": "1920"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Who led the 1916 uprising in the Turgay region?",
+    "options": {
+      "A": "Amangeldy Imanov",
+      "B": "Alikhan Bukeikhanov",
+      "C": "Akhmet Baitursynov",
+      "D": "Mustafa Shokai"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 20,
+    "question": "What was the name of the national political party founded by the Kazakh intelligentsia in the early 20th century?",
+    "options": {
+      "A": "Alash",
+      "B": "Zhas Kazakh",
+      "C": "Turkestan",
+      "D": "Amanat"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Who was the leader of the Alash movement?",
+    "options": {
+      "A": "Dinmukhamed Kunayev",
+      "B": "Alikhan Bukeikhanov",
+      "C": "Olzhas Suleimenov",
+      "D": "Nursultan Nazarbayev"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 22,
+    "question": "In what year was the Kazakh ASSR formed?",
+    "options": {
+      "A": "1917",
+      "B": "1920",
+      "C": "1925",
+      "D": "1936"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 23,
+    "question": "In what year was the Kazakh ASSR transformed into the Kazakh SSR?",
+    "options": {
+      "A": "1920",
+      "B": "1925",
+      "C": "1936",
+      "D": "1991"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 24,
+    "question": "What event took place in Kazakhstan in December 1986?",
+    "options": {
+      "A": "Establishment of the Kazakh Khanate",
+      "B": "Zheltoksan events",
+      "C": "Beginning of the Great Patriotic War",
+      "D": "Declaration of independence"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "id": 25,
+    "question": "In what year did Kazakhstan declare its independence?",
+    "options": {
+      "A": "1986",
+      "B": "1990",
+      "C": "1991",
+      "D": "1995"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 26,
+    "question": "In what year was the current Constitution of the Republic of Kazakhstan adopted?",
+    "options": {
+      "A": "1991",
+      "B": "1993",
+      "C": "1995",
+      "D": "1997"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 27,
+    "question": "What was the capital of the Kazakh Khanate during the reign of Kasym Khan?",
+    "options": {
+      "A": "Turkestan",
+      "B": "Sygnak",
+      "C": "Saraichik",
+      "D": "Otyrar"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 28,
+    "question": "Who is the author of the work \"Tarikh-i Rashidi\"?",
+    "options": {
+      "A": "Muhammad Haidar Dulati",
+      "B": "Akhmet Yassaui",
+      "C": "Abai Kunanbayev",
+      "D": "Shokan Ualikhanov"
+    },
+    "correctAnswer": "A"
+  },
+  {
+    "id": 29,
+    "question": "Which ancient people did the famous Golden Man belong to?",
+    "options": {
+      "A": "Wusun",
+      "B": "Kangju",
+      "C": "Sakas",
+      "D": "Huns"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "id": 30,
+    "question": "Where was the famous \"Golden Man\" discovered?",
+    "options": {
+      "A": "Otrar",
+      "B": "Issyk burial mound",
+      "C": "Turkestan",
+      "D": "Saraichik"
+    },
+    "correctAnswer": "B"
+  }
+]
