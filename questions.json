@@ -1,1321 +1,3121 @@
 [
   {
     "id": 1,
-    "question": "Which archaeological culture of the Eneolithic period in Kazakhstan (4th–3rd millennium BCE) provides the earliest evidence of horse domestication?",
+    "question": {
+      "EN": "Which archaeological culture of the Eneolithic period in Kazakhstan (4th–3rd millennium BCE) provides the earliest evidence of horse domestication?",
+      "RU": "Какая археологическая культура энеолита в Казахстане (IV–III тыс. до н.э.) дает самые ранние свидетельства одомашнивания лошади?"
+    },
     "options": {
-      "A": "Botai culture",
-      "B": "Andronovo culture",
-      "C": "Begazy-Dandybay culture",
-      "D": "Kelteminar culture"
+      "A": {
+        "EN": "Botai culture",
+        "RU": "Ботайская культура"
+      },
+      "B": {
+        "EN": "Andronovo culture",
+        "RU": "Андроновская культура"
+      },
+      "C": {
+        "EN": "Begazy-Dandybay culture",
+        "RU": "Бегазы-дандыбаевская культура"
+      },
+      "D": {
+        "EN": "Kelteminar culture",
+        "RU": "Кельтеминарская культура"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 2,
-    "question": "Which dominant Bronze Age culture spanned the territory of Kazakhstan and was characterized by Indo-Iranian populations, pit graves, and developed metallurgy?",
+    "question": {
+      "EN": "Which dominant Bronze Age culture spanned the territory of Kazakhstan and was characterized by Indo-Iranian populations, pit graves, and developed metallurgy?",
+      "RU": "Какая доминирующая культура эпохи бронзы охватывала территорию Казахстана и характеризовалась индо-иранским населением, ямными могилами и развитой металлургией?"
+    },
     "options": {
-      "A": "Afanasievo culture",
-      "B": "Andronovo culture",
-      "C": "Tasmola culture",
-      "D": "Sarmatian culture"
+      "A": {
+        "EN": "Afanasievo culture",
+        "RU": "Афанасьевская культура"
+      },
+      "B": {
+        "EN": "Andronovo culture",
+        "RU": "Андроновская культура"
+      },
+      "C": {
+        "EN": "Tasmola culture",
+        "RU": "Тасмолинская культура"
+      },
+      "D": {
+        "EN": "Sarmatian culture",
+        "RU": "Сарматская культура"
+      }
     },
     "correctAnswer": "B"
   },
   {
     "id": 3,
-    "question": "The Late Bronze Age culture in Central Kazakhstan famous for its monumental stone mausoleums and advanced bronze metallurgy is known as:",
+    "question": {
+      "EN": "The Late Bronze Age culture in Central Kazakhstan famous for its monumental stone mausoleums and advanced bronze metallurgy is known as:",
+      "RU": "Культура эпохи поздней бронзы в Центральном Казахстане, известная своими монументальными каменными мавзолеями и развитой бронзовой металлургией, называется:"
+    },
     "options": {
-      "A": "Botai culture",
-      "B": "Begazy-Dandybay culture",
-      "C": "Saka culture",
-      "D": "Karakhanid culture"
+      "A": {
+        "EN": "Botai culture",
+        "RU": "Ботайская культура"
+      },
+      "B": {
+        "EN": "Begazy-Dandybay culture",
+        "RU": "Бегазы-дандыбаевская культура"
+      },
+      "C": {
+        "EN": "Saka culture",
+        "RU": "Сакская культура"
+      },
+      "D": {
+        "EN": "Karakhanid culture",
+        "RU": "Караханидская культура"
+      }
     },
     "correctAnswer": "B"
   },
   {
     "id": 4,
-    "question": "In which famous burial site in Zhetysu was the 'Golden Man' (Altyn Adam) discovered by K. Akishev in 1969?",
+    "question": {
+      "EN": "In which famous burial site in Zhetysu was the 'Golden Man' (Altyn Adam) discovered by K. Akishev in 1969?",
+      "RU": "В каком знаменитом погребении в Семиречье (Жетысу) К. Акишев в 1969 году обнаружил «Золотого человека» (Алтын Адам)?"
+    },
     "options": {
-      "A": "Shilikti kurgan",
-      "B": "Besshatyr kurgan",
-      "C": "Issyk kurgan",
-      "D": "Berel kurgan"
+      "A": {
+        "EN": "Shilikti kurgan",
+        "RU": "Шиликтинский курган"
+      },
+      "B": {
+        "EN": "Besshatyr kurgan",
+        "RU": "Бесшатырский курган"
+      },
+      "C": {
+        "EN": "Issyk kurgan",
+        "RU": "Иссыкский курган"
+      },
+      "D": {
+        "EN": "Berel kurgan",
+        "RU": "Берельский курган"
+      }
     },
     "correctAnswer": "C"
   },
   {
     "id": 5,
-    "question": "Which famous Queen of the Saka-Mussagetae defeated the Persian King Cyrus the Great in 530 BCE?",
+    "question": {
+      "EN": "Which famous Queen of the Saka-Mussagetae defeated the Persian King Cyrus the Great in 530 BCE?",
+      "RU": "Какая знаменитая царица саков-массагетов разгромила персидского царя Кира Великого в 530 году до н.э.?"
+    },
     "options": {
-      "A": "Tomyris",
-      "B": "Zarina",
-      "C": "Borte",
-      "D": "Alan-Goa"
+      "A": {
+        "EN": "Tomyris",
+        "RU": "Томирис"
+      },
+      "B": {
+        "EN": "Zarina",
+        "RU": "Зарина"
+      },
+      "C": {
+        "EN": "Borte",
+        "RU": "Борте"
+      },
+      "D": {
+        "EN": "Alan-Goa",
+        "RU": "Алан-Гоа"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 6,
-    "question": "Which Persian king launched a military campaign against the Saka-Tigraxauda in 519 BCE and captured their chieftain Skunkha?",
+    "question": {
+      "EN": "Which Persian king launched a military campaign against the Saka-Tigraxauda in 519 BCE and captured their chieftain Skunkha?",
+      "RU": "Какой персидский царь предпринял военный поход против саков-тиграхауда в 519 году до н.э. и захватил в плен их вождя Скунху?"
+    },
     "options": {
-      "A": "Cyrus the Great",
-      "B": "Darius I",
-      "C": "Xerxes I",
-      "D": "Cambyses II"
+      "A": {
+        "EN": "Cyrus the Great",
+        "RU": "Кир Великий"
+      },
+      "B": {
+        "EN": "Darius I",
+        "RU": "Дарий I"
+      },
+      "C": {
+        "EN": "Xerxes I",
+        "RU": "Ксеркс I"
+      },
+      "D": {
+        "EN": "Cambyses II",
+        "RU": "Камбиз II"
+      }
     },
     "correctAnswer": "B"
   },
   {
     "id": 7,
-    "question": "In Saka social structure, what color of clothing was associated with warriors?",
+    "question": {
+      "EN": "In Saka social structure, what color of clothing was associated with warriors?",
+      "RU": "В сакском обществе одежда какого цвета ассоциировалась с воинами?"
+    },
     "options": {
-      "A": "White",
-      "B": "Yellow",
-      "C": "Red",
-      "D": "Blue"
+      "A": {
+        "EN": "White",
+        "RU": "Белый"
+      },
+      "B": {
+        "EN": "Yellow",
+        "RU": "Желтый"
+      },
+      "C": {
+        "EN": "Red",
+        "RU": "Красный"
+      },
+      "D": {
+        "EN": "Blue",
+        "RU": "Синий"
+      }
     },
     "correctAnswer": "C"
   },
   {
     "id": 8,
-    "question": "What artistic style, featuring realistic depictions of predators, prey, and mythical beasts, characterized Saka jewelry and weapons?",
+    "question": {
+      "EN": "What artistic style, featuring realistic depictions of predators, prey, and mythical beasts, characterized Saka jewelry and weapons?",
+      "RU": "Какой художественный стиль, отличающийся реалистичными изображениями хищников, добычи и мифических существ, характеризовал сакские украшения и оружие?"
+    },
     "options": {
-      "A": "Animal Style",
-      "B": "Geometrical Style",
-      "C": "Floral Style",
-      "D": "Hellenistic Style"
+      "A": {
+        "EN": "Animal Style",
+        "RU": "Звериный стиль"
+      },
+      "B": {
+        "EN": "Geometrical Style",
+        "RU": "Геометрический стиль"
+      },
+      "C": {
+        "EN": "Floral Style",
+        "RU": "Растительный стиль"
+      },
+      "D": {
+        "EN": "Hellenistic Style",
+        "RU": "Эллинистический стиль"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 9,
-    "question": "Where was the political center (capital city Guizang / Red Valley) of the Wusun state located?",
+    "question": {
+      "EN": "Where was the political center (capital city Guizang / Red Valley) of the Wusun state located?",
+      "RU": "Где располагался политический центр (столица Чигунь / Красная долина) усуньского государства?"
+    },
     "options": {
-      "A": "Ili River Valley and Zhetysu",
-      "B": "Irtysh River Basin",
-      "C": "Aral Sea Coast",
-      "D": "Ural River Region"
+      "A": {
+        "EN": "Ili River Valley and Zhetysu",
+        "RU": "Долина реки Или и Семиречье"
+      },
+      "B": {
+        "EN": "Irtysh River Basin",
+        "RU": "Бассейн реки Иртыш"
+      },
+      "C": {
+        "EN": "Aral Sea Coast",
+        "RU": "Побережье Аральского моря"
+      },
+      "D": {
+        "EN": "Ural River Region",
+        "RU": "Приуралье"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 10,
-    "question": "What was the supreme title of the ruler of the Wusun state?",
+    "question": {
+      "EN": "What was the supreme title of the ruler of the Wusun state?",
+      "RU": "Каков был высший титул правителя усуньского государства?"
+    },
     "options": {
-      "A": "Chanyu",
-      "B": "Kunbag (Gunmo)",
-      "C": "Khagan",
-      "D": "Yabgu"
+      "A": {
+        "EN": "Chanyu",
+        "RU": "Шаньюй"
+      },
+      "B": {
+        "EN": "Kunbag (Gunmo)",
+        "RU": "Куньбаг (Гунмо)"
+      },
+      "C": {
+        "EN": "Khagan",
+        "RU": "Каган"
+      },
+      "D": {
+        "EN": "Yabgu",
+        "RU": "Ябгу"
+      }
     },
     "correctAnswer": "B"
   },
   {
     "id": 11,
-    "question": "Which ancient state in Southern Kazakhstan played a key trade role along the Syr Darya and had its capital at Bityan?",
+    "question": {
+      "EN": "Which ancient state in Southern Kazakhstan played a key trade role along the Syr Darya and had its capital at Bityan?",
+      "RU": "Какое древнее государство в Южном Казахстане играло ключевую торговую роль вдоль Сырдарьи и имело столицу в городе Битянь?"
+    },
     "options": {
-      "A": "Kangju (Kangly)",
-      "B": "Wusun",
-      "C": "Sarmatians",
-      "D": "Huns"
+      "A": {
+        "EN": "Kangju (Kangly)",
+        "RU": "Кангюй (Канглы)"
+      },
+      "B": {
+        "EN": "Wusun",
+        "RU": "Усуни"
+      },
+      "C": {
+        "EN": "Sarmatians",
+        "RU": "Сарматы"
+      },
+      "D": {
+        "EN": "Huns",
+        "RU": "Гунны"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 12,
-    "question": "Which tribal confederation dominated the steppe regions of Western Kazakhstan between the 3rd century BCE and 4th century CE?",
+    "question": {
+      "EN": "Which tribal confederation dominated the steppe regions of Western Kazakhstan between the 3rd century BCE and 4th century CE?",
+      "RU": "Какая племенная конфедерация доминировала в степных районах Западного Казахстана в период с III века до н.э. по IV век н.э.?"
+    },
     "options": {
-      "A": "Sarmatians",
-      "B": "Wusun",
-      "C": "Karluks",
-      "D": "Kimeks"
+      "A": {
+        "EN": "Sarmatians",
+        "RU": "Сарматы"
+      },
+      "B": {
+        "EN": "Wusun",
+        "RU": "Усуни"
+      },
+      "C": {
+        "EN": "Karluks",
+        "RU": "Карлуки"
+      },
+      "D": {
+        "EN": "Kimeks",
+        "RU": "Кимаки"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 13,
-    "question": "Which ruler united the Xiongnu (Hun) tribes in 209 BCE and created a powerful nomadic empire in Central Asia?",
+    "question": {
+      "EN": "Which ruler united the Xiongnu (Hun) tribes in 209 BCE and created a powerful nomadic empire in Central Asia?",
+      "RU": "Какой правитель объединил племена хунну в 209 году до н.э. и создал мощную кочевую империю в Центральной Азии?"
+    },
     "options": {
-      "A": "Modu Chanyu",
-      "B": "Attila",
-      "C": "Bumin Khan",
-      "D": "Zhizhi Chanyu"
+      "A": {
+        "EN": "Modu Chanyu",
+        "RU": "Модэ Шаньюй"
+      },
+      "B": {
+        "EN": "Attila",
+        "RU": "Аттила"
+      },
+      "C": {
+        "EN": "Bumin Khan",
+        "RU": "Бумын-хан"
+      },
+      "D": {
+        "EN": "Zhizhi Chanyu",
+        "RU": "Чжичжи-шаньюй"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 14,
-    "question": "Which Hunnic leader led the military campaigns deep into Western Europe during the 5th century CE?",
+    "question": {
+      "EN": "Which Hunnic leader led the military campaigns deep into Western Europe during the 5th century CE?",
+      "RU": "Какой гуннский лидер возглавил военные походы вглубь Западной Европы в V веке н.э.?"
+    },
     "options": {
-      "A": "Attila",
-      "B": "Balamber",
-      "C": "Rua",
-      "D": "Mundzuk"
+      "A": {
+        "EN": "Attila",
+        "RU": "Аттила"
+      },
+      "B": {
+        "EN": "Balamber",
+        "RU": "Баламбер"
+      },
+      "C": {
+        "EN": "Rua",
+        "RU": "Руа"
+      },
+      "D": {
+        "EN": "Mundzuk",
+        "RU": "Мунджук"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 15,
-    "question": "What major global historical movement was triggered by the westward migration of the Huns from the 4th century CE?",
+    "question": {
+      "EN": "What major global historical movement was triggered by the westward migration of the Huns from the 4th century CE?",
+      "RU": "Какое крупнейшее всемирно-историческое движение было вызвано миграцией гуннов на запад с IV века н.э.?"
+    },
     "options": {
-      "A": "The Great Migration of Peoples",
-      "B": "The Islamic Conquests",
-      "C": "The Mongol Conquests",
-      "D": "The Crusades"
+      "A": {
+        "EN": "The Great Migration of Peoples",
+        "RU": "Великое переселение народов"
+      },
+      "B": {
+        "EN": "The Islamic Conquests",
+        "RU": "Арабские завоевания"
+      },
+      "C": {
+        "EN": "The Mongol Conquests",
+        "RU": "Монгольские завоевания"
+      },
+      "D": {
+        "EN": "The Crusades",
+        "RU": "Крестовые походы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 16,
-    "question": "Which Saka group was known as 'pointing-hat Sakas' due to their distinctive tall conical headwear?",
+    "question": {
+      "EN": "Which Saka group was known as 'pointing-hat Sakas' due to their distinctive tall conical headwear?",
+      "RU": "Какую группу саков называли «саками в островерхих шапках» из-за их характерных высоких конусообразных головных уборов?"
+    },
     "options": {
-      "A": "Saka-Tigraxauda",
-      "B": "Saka-Haumavarga",
-      "C": "Saka-Paradaraya",
-      "D": "Saka-Argippaei"
+      "A": {
+        "EN": "Saka-Tigraxauda",
+        "RU": "Саки-тиграхауда"
+      },
+      "B": {
+        "EN": "Saka-Haumavarga",
+        "RU": "Саки-хаумаварга"
+      },
+      "C": {
+        "EN": "Saka-Paradaraya",
+        "RU": "Саки-парадарайя"
+      },
+      "D": {
+        "EN": "Saka-Argippaei",
+        "RU": "Саки-аргиппеи"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 17,
-    "question": "Where were the Saka-Paradaraya ('Sakas beyond the sea/river') primarily located?",
+    "question": {
+      "EN": "Where were the Saka-Paradaraya ('Sakas beyond the sea/river') primarily located?",
+      "RU": "Где в основном располагались саки-парадарайя («саки за морем / рекой»)?"
+    },
     "options": {
-      "A": "Near the Aral Sea and lower Syr Darya/Amu Darya",
-      "B": "In the Pamir Mountains",
-      "C": "In the Altai Mountains",
-      "D": "In the Tarim Basin"
+      "A": {
+        "EN": "Near the Aral Sea and lower Syr Darya/Amu Darya",
+        "RU": "Вблизи Аральского моря и нижнего течения Сырдарьи и Амударьи"
+      },
+      "B": {
+        "EN": "In the Pamir Mountains",
+        "RU": "В Памирских горах"
+      },
+      "C": {
+        "EN": "In the Altai Mountains",
+        "RU": "В Алтайских горах"
+      },
+      "D": {
+        "EN": "In the Tarim Basin",
+        "RU": "В Таримской впадине"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 18,
-    "question": "What site in Eastern Kazakhstan is famous for frozen Saka kurgans containing preserved horses with elaborate harness decorations?",
+    "question": {
+      "EN": "What site in Eastern Kazakhstan is famous for frozen Saka kurgans containing preserved horses with elaborate harness decorations?",
+      "RU": "Какой памятник в Восточном Казахстане знаменит своими «замерзшими» сакскими курганами с сохранившимися конями и сложными конскими упряжками?"
+    },
     "options": {
-      "A": "Berel",
-      "B": "Otrar",
-      "C": "Taraz",
-      "D": "Suyab"
+      "A": {
+        "EN": "Berel",
+        "RU": "Берел"
+      },
+      "B": {
+        "EN": "Otrar",
+        "RU": "Отрар"
+      },
+      "C": {
+        "EN": "Taraz",
+        "RU": "Тараз"
+      },
+      "D": {
+        "EN": "Suyab",
+        "RU": "Суяб"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 19,
-    "question": "The famous open-air petroglyph sanctuary in Zhetysu listed as a UNESCO World Heritage Site is:",
+    "question": {
+      "EN": "The famous open-air petroglyph sanctuary in Zhetysu listed as a UNESCO World Heritage Site is:",
+      "RU": "Знаменитое святилище петроглифов под открытым небом в Семиречье (Жетысу), внесенное в список Всемирного наследия ЮНЕСКО, — это:"
+    },
     "options": {
-      "A": "Tamgaly",
-      "B": "Mankystau",
-      "C": "Ak-Baur",
-      "D": "Tereкты"
+      "A": {
+        "EN": "Tamgaly",
+        "RU": "Тамгалы"
+      },
+      "B": {
+        "EN": "Mankystau",
+        "RU": "Мангыстау"
+      },
+      "C": {
+        "EN": "Ak-Baur",
+        "RU": "Ак-Баур"
+      },
+      "D": {
+        "EN": "Tereкты",
+        "RU": "Теректы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 20,
-    "question": "Sarmatian heavy armoured cavalrymen, equipped with long spears and iron armor, were called:",
+    "question": {
+      "EN": "Sarmatian heavy armoured cavalrymen, equipped with long spears and iron armor, were called:",
+      "RU": "Тяжеловооруженных сарматских кавалеристов, оснащенных длинными копьями и железными доспехами, называли:"
+    },
     "options": {
-      "A": "Cataphracts",
-      "B": "Baskaks",
-      "C": "Nuqers",
-      "D": "Keshigs"
+      "A": {
+        "EN": "Cataphracts",
+        "RU": "Катафрактарии"
+      },
+      "B": {
+        "EN": "Baskaks",
+        "RU": "Баскаки"
+      },
+      "C": {
+        "EN": "Nuqers",
+        "RU": "Нукеры"
+      },
+      "D": {
+        "EN": "Keshigs",
+        "RU": "Кешиктены"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 21,
-    "question": "Which Han Dynasty envoy was sent to Central Asia in 138 BCE to establish an alliance with the Wusun and Yuezhi against the Xiongnu?",
+    "question": {
+      "EN": "Which Han Dynasty envoy was sent to Central Asia in 138 BCE to establish an alliance with the Wusun and Yuezhi against the Xiongnu?",
+      "RU": "Какой посланник династии Хань был отправлен в Центральную Азию в 138 г. до н.э. для заключения союза с усунями и юэчжами против хунну?"
+    },
     "options": {
-      "A": "Zhang Qian",
-      "B": "Ban Chao",
-      "C": "Sima Qian",
-      "D": "Xuanzang"
+      "A": {
+        "EN": "Zhang Qian",
+        "RU": "Чжан Цянь"
+      },
+      "B": {
+        "EN": "Ban Chao",
+        "RU": "Бань Чао"
+      },
+      "C": {
+        "EN": "Sima Qian",
+        "RU": "Сыма Цянь"
+      },
+      "D": {
+        "EN": "Xuanzang",
+        "RU": "Сюаньцзан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 22,
-    "question": "The elite Saka group associated with the preparation of the sacred soma/haoma drink was:",
+    "question": {
+      "EN": "The elite Saka group associated with the preparation of the sacred soma/haoma drink was:",
+      "RU": "Элитная сакская группа, связанная с приготовлением священного напитка сомы/хаомы, — это:"
+    },
     "options": {
-      "A": "Saka-Haumavarga",
-      "B": "Saka-Tigraxauda",
-      "C": "Saka-Paradaraya",
-      "D": "Massagetae"
+      "A": {
+        "EN": "Saka-Haumavarga",
+        "RU": "Саки-хаумаварга"
+      },
+      "B": {
+        "EN": "Saka-Tigraxauda",
+        "RU": "Саки-тиграхауда"
+      },
+      "C": {
+        "EN": "Saka-Paradaraya",
+        "RU": "Саки-парадарайя"
+      },
+      "D": {
+        "EN": "Massagetae",
+        "RU": "Массагеты"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 23,
-    "question": "What archaeological landmark in Central Kazakhstan features stone enclosures shaped like sun rays around burial mounds ('kurgans with whiskers')?",
+    "question": {
+      "EN": "What archaeological landmark in Central Kazakhstan features stone enclosures shaped like sun rays around burial mounds ('kurgans with whiskers')?",
+      "RU": "Какой археологический памятник Центрального Казахстана представляет собой каменные ограждения в виде солнечных лучей вокруг курганов («курганы с усами»)?с"
+    },
     "options": {
-      "A": "Tasmola culture",
-      "B": "Botai culture",
-      "C": "Kelteminar culture",
-      "D": "Yelshanka culture"
+      "A": {
+        "EN": "Tasmola culture",
+        "RU": "Тасмолинская культура"
+      },
+      "B": {
+        "EN": "Botai culture",
+        "RU": "Ботайская культура"
+      },
+      "C": {
+        "EN": "Kelteminar culture",
+        "RU": "Кельтеминарская культура"
+      },
+      "D": {
+        "EN": "Yelshanka culture",
+        "RU": "Елшанская культура"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 24,
-    "question": "Which animal was considered sacred and served as the central religious cult object among the Saka and early nomads?",
+    "question": {
+      "EN": "Which animal was considered sacred and served as the central religious cult object among the Saka and early nomads?",
+      "RU": "Какое животное считалось священным и служило центральным религиозным объектом культа у саков и ранних кочевников?"
+    },
     "options": {
-      "A": "Horse and Sun",
-      "B": "Camel and Moon",
-      "C": "Bear and Forest",
-      "D": "Bull and River"
+      "A": {
+        "EN": "Horse and Sun",
+        "RU": "Конь и Солнце"
+      },
+      "B": {
+        "EN": "Camel and Moon",
+        "RU": "Верблюд и Луна"
+      },
+      "C": {
+        "EN": "Bear and Forest",
+        "RU": "Медведь и Лес"
+      },
+      "D": {
+        "EN": "Bull and River",
+        "RU": "Бык и Река"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 25,
-    "question": "What golden artifact from Araltobe in Western Kazakhstan earned the title of the 'Sarmatian Golden Man'?",
+    "question": {
+      "EN": "What golden artifact from Araltobe in Western Kazakhstan earned the title of the 'Sarmatian Golden Man'?",
+      "RU": "Какой золотой артефакт из Аралтобе в Западном Казахстане заслужил название «сарматского Золотого человека»?"
+    },
     "options": {
-      "A": "A Sarmatian chieftain's golden warrior armor",
-      "B": "A Saka queen's golden crown",
-      "C": "A Hunnic bronze cauldron",
-      "D": "A Turkic stone statue"
+      "A": {
+        "EN": "A Sarmatian chieftain's golden warrior armor",
+        "RU": "Золотые доспехи сарматского вождя"
+      },
+      "B": {
+        "EN": "A Saka queen's golden crown",
+        "RU": "Золотая корона сакской царицы"
+      },
+      "C": {
+        "EN": "A Hunnic bronze cauldron",
+        "RU": "Гуннский бронзовый котел"
+      },
+      "D": {
+        "EN": "A Turkic stone statue",
+        "RU": "Тюркское каменное изваяние"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 26,
-    "question": "Around which century BCE did the transition from Bronze Age sedentary cattle breeding to nomadic pastoralism occur in Kazakhstan?",
+    "question": {
+      "EN": "Around which century BCE did the transition from Bronze Age sedentary cattle breeding to nomadic pastoralism occur in Kazakhstan?",
+      "RU": "Примерно в каком веке до н.э. в Казахстане произошел переход от оседлого скотоводства эпохи бронзы к кочевому скотоводству?"
+    },
     "options": {
-      "A": "1st millennium BCE (8th–7th centuries BCE)",
-      "B": "3rd millennium BCE",
-      "C": "1st century CE",
-      "D": "10th century CE"
+      "A": {
+        "EN": "1st millennium BCE (8th–7th centuries BCE)",
+        "RU": "I тысячелетие до н.э. (VIII–VII века до н.э.)"
+      },
+      "B": {
+        "EN": "3rd millennium BCE",
+        "RU": "III тысячелетие до н.э."
+      },
+      "C": {
+        "EN": "1st century CE",
+        "RU": "I век н.э."
+      },
+      "D": {
+        "EN": "10th century CE",
+        "RU": "X век н.э."
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 27,
-    "question": "Which ancient Chinese historical source provides extensive descriptions of the Wusun and Kangju tribes?",
+    "question": {
+      "EN": "Which ancient Chinese historical source provides extensive descriptions of the Wusun and Kangju tribes?",
+      "RU": "Какой древний китайский исторический источник содержит подробные описания племен усуней и кангюев?"
+    },
     "options": {
-      "A": "Shiji (Records of the Grand Historian)",
-      "B": "Secret History of the Mongols",
-      "C": "Codex Cumanicus",
-      "D": "Baburnama"
+      "A": {
+        "EN": "Shiji (Records of the Grand Historian)",
+        "RU": "«Ши цзи» («Исторические записки»)"
+      },
+      "B": {
+        "EN": "Secret History of the Mongols",
+        "RU": "«Сокровенное сказание монголов»"
+      },
+      "C": {
+        "EN": "Codex Cumanicus",
+        "RU": "«Кодекс Куманикус»"
+      },
+      "D": {
+        "EN": "Baburnama",
+        "RU": "«Бабур-наме»"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 28,
-    "question": "What type of residence was typical for Saka and Wusun rulers during winter seasons?",
+    "question": {
+      "EN": "What type of residence was typical for Saka and Wusun rulers during winter seasons?",
+      "RU": "Какой тип жилья был типичен для сакских и усуньских правителей в зимний период?"
+    },
     "options": {
-      "A": "Permanent mudbrick or stone settlements in river valleys",
-      "B": "Wooden tents only",
-      "C": "Underground caves",
-      "D": "Castles built on rafts"
+      "A": {
+        "EN": "Permanent mudbrick or stone settlements in river valleys",
+        "RU": "Постоянные саманные или каменные поселения в речных долинах"
+      },
+      "B": {
+        "EN": "Wooden tents only",
+        "RU": "Только деревянные шатры"
+      },
+      "C": {
+        "EN": "Underground caves",
+        "RU": "Подземные пещеры"
+      },
+      "D": {
+        "EN": "Castles built on rafts",
+        "RU": "Замки на плотах"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 29,
-    "question": "In Sarmatian society, high archaeological status (rich grave goods, weapons) was uniquely granted to:",
+    "question": {
+      "EN": "In Sarmatian society, high archaeological status (rich grave goods, weapons) was uniquely granted to:",
+      "RU": "В сарматском обществе высокий археологический статус (богатый инвентарь, оружие) уникальным образом предоставлялся:"
+    },
     "options": {
-      "A": "High-status women warriors and priestesses",
-      "B": "Foreign hostages only",
-      "C": "Sogdian merchants",
-      "D": "Chinese diplomats"
+      "A": {
+        "EN": "High-status women warriors and priestesses",
+        "RU": "Женщинам-воительницам и жрицам высокого статуса"
+      },
+      "B": {
+        "EN": "Foreign hostages only",
+        "RU": "Только иностранным заложникам"
+      },
+      "C": {
+        "EN": "Sogdian merchants",
+        "RU": "Согдийским купцам"
+      },
+      "D": {
+        "EN": "Chinese diplomats",
+        "RU": "Китайским дипломатам"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 30,
-    "question": "Which iron weapons revolutionized nomadic warfare during the Saka-Sarmatian period?",
+    "question": {
+      "EN": "Which iron weapons revolutionized nomadic warfare during the Saka-Sarmatian period?",
+      "RU": "Какие железные виды оружия произвели революцию в кочевой войне в сакско-сарматский период?"
+    },
     "options": {
-      "A": "Akinakes (short iron sword) and compound bow",
-      "B": "Crossbow and iron halberd",
-      "C": "Flintlock rifle and bayonet",
-      "D": "Bronze dagger and stone axe"
+      "A": {
+        "EN": "Akinakes (short iron sword) and compound bow",
+        "RU": "Акинак (короткий железный меч) и сложный лук"
+      },
+      "B": {
+        "EN": "Crossbow and iron halberd",
+        "RU": "Арбалет и железная алебарда"
+      },
+      "C": {
+        "EN": "Flintlock rifle and bayonet",
+        "RU": "Кремневое ружье и штык"
+      },
+      "D": {
+        "EN": "Bronze dagger and stone axe",
+        "RU": "Бронзовый кинжал и каменный топор"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 31,
-    "question": "Who was the founder and first Khagan of the First Turkic Khaganate in 552 CE after defeating the Rouran?",
+    "question": {
+      "EN": "Who was the founder and first Khagan of the First Turkic Khaganate in 552 CE after defeating the Rouran?",
+      "RU": "Кто был основателем и первым каганом Первого Тюркского каганата в 552 г. н.э. после разгрома жужаней?"
+    },
     "options": {
-      "A": "Bumin Khagan",
-      "B": "Istemi Khagan",
-      "C": "Mukan Khagan",
-      "D": "Taspal Khagan"
+      "A": {
+        "EN": "Bumin Khagan",
+        "RU": "Бумын-каган"
+      },
+      "B": {
+        "EN": "Istemi Khagan",
+        "RU": "Истеми-каган"
+      },
+      "C": {
+        "EN": "Mukan Khagan",
+        "RU": "Мукан-каган"
+      },
+      "D": {
+        "EN": "Taspal Khagan",
+        "RU": "Таспал-каган"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 32,
-    "question": "Which ruler served as the leader of the Western campaign of the Turkic Khaganate and ruled the western territories (Yabgu)?",
+    "question": {
+      "EN": "Which ruler served as the leader of the Western campaign of the Turkic Khaganate and ruled the western territories (Yabgu)?",
+      "RU": "Какой правитель руководил западным походом Тюркского каганата и управлял западными землями (в качестве ябгу)?"
+    },
     "options": {
-      "A": "Istemi Khagan",
-      "B": "Bumin Khagan",
-      "C": "Suluk Khagan",
-      "D": "Wuzhile Khagan"
+      "A": {
+        "EN": "Istemi Khagan",
+        "RU": "Истеми-каган"
+      },
+      "B": {
+        "EN": "Bumin Khagan",
+        "RU": "Бумын-каган"
+      },
+      "C": {
+        "EN": "Suluk Khagan",
+        "RU": "Сулук-каган"
+      },
+      "D": {
+        "EN": "Wuzhile Khagan",
+        "RU": "Ужиле-каган"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 33,
-    "question": "In what year did the First Turkic Khaganate officially split into Eastern and Western Turkic Khaganates?",
+    "question": {
+      "EN": "In what year did the First Turkic Khaganate officially split into Eastern and Western Turkic Khaganates?",
+      "RU": "В каком году Первый Тюркский каганат официально распался на Восточный и Западный Тюркские каганаты?"
+    },
     "options": {
-      "A": "603 CE",
-      "B": "552 CE",
-      "C": "751 CE",
-      "D": "940 CE"
+      "A": {
+        "EN": "603 CE",
+        "RU": "603 г. н.э."
+      },
+      "B": {
+        "EN": "552 CE",
+        "RU": "552 г. н.э."
+      },
+      "C": {
+        "EN": "751 CE",
+        "RU": "751 г. н.э."
+      },
+      "D": {
+        "EN": "940 CE",
+        "RU": "940 г. н.э."
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 34,
-    "question": "What was the capital city of the Western Turkic Khaganate located in the Chu River valley?",
+    "question": {
+      "EN": "What was the capital city of the Western Turkic Khaganate located in the Chu River valley?",
+      "RU": "Какая столица Западно-Тюркского каганата располагалась в долине реки Чу?"
+    },
     "options": {
-      "A": "Suyab",
-      "B": "Otrar",
-      "C": "Sarai-Batu",
-      "D": "Samarkand"
+      "A": {
+        "EN": "Suyab",
+        "RU": "Суяб"
+      },
+      "B": {
+        "EN": "Otrar",
+        "RU": "Отрар"
+      },
+      "C": {
+        "EN": "Sarai-Batu",
+        "RU": "Сарай-Бату"
+      },
+      "D": {
+        "EN": "Samarkand",
+        "RU": "Самарканд"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 35,
-    "question": "What was the royal ruling clan of the First and Western Turkic Khaganates?",
+    "question": {
+      "EN": "What was the royal ruling clan of the First and Western Turkic Khaganates?",
+      "RU": "Какой клан был царским правящим родом в Первом и Западно-Тюркском каганатах?"
+    },
     "options": {
-      "A": "Ashina",
-      "B": "Ashide",
-      "C": "Dulo",
-      "D": "Nushipi"
+      "A": {
+        "EN": "Ashina",
+        "RU": "Ашина"
+      },
+      "B": {
+        "EN": "Ashide",
+        "RU": "Ашиде"
+      },
+      "C": {
+        "EN": "Dulo",
+        "RU": "Дуло"
+      },
+      "D": {
+        "EN": "Nushipi",
+        "RU": "Нушипи"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 36,
-    "question": "Who founded the Turgesh Khaganate in 704 CE?",
+    "question": {
+      "EN": "Who founded the Turgesh Khaganate in 704 CE?",
+      "RU": "Кто основал Тюргешский каганат в 704 г. н.э.?"
+    },
     "options": {
-      "A": "Wuzhile",
-      "B": "Suluk",
-      "C": "Bumin",
-      "D": "Su Lu"
+      "A": {
+        "EN": "Wuzhile",
+        "RU": "Ужиле"
+      },
+      "B": {
+        "EN": "Suluk",
+        "RU": "Сулук"
+      },
+      "C": {
+        "EN": "Bumin",
+        "RU": "Бумын"
+      },
+      "D": {
+        "EN": "Su Lu",
+        "RU": "Су Лу"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 37,
-    "question": "Which Turgesh ruler was nicknamed 'Abu Muzahim' (the Bull/Pusher) by Arab historians due to his fierce resistance against Umayyad forces?",
+    "question": {
+      "EN": "Which Turgesh ruler was nicknamed 'Abu Muzahim' (the Bull/Pusher) by Arab historians due to his fierce resistance against Umayyad forces?",
+      "RU": "Какого тюргешского правителя арабские историки прозвали «Абу Музахим» («Бодливый бык») за его яростное сопротивление войскам Омейядов?"
+    },
     "options": {
-      "A": "Suluk Khagan",
-      "B": "Wuzhile Khagan",
-      "C": "Kulpang Khagan",
-      "D": "Tukvarzen Khagan"
+      "A": {
+        "EN": "Suluk Khagan",
+        "RU": "Сулук-каган"
+      },
+      "B": {
+        "EN": "Wuzhile Khagan",
+        "RU": "Ужиле-каган"
+      },
+      "C": {
+        "EN": "Kulpang Khagan",
+        "RU": "Кулпан-каган"
+      },
+      "D": {
+        "EN": "Tukvarzen Khagan",
+        "RU": "Тукварзен-каган"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 38,
-    "question": "In what year did the historic Battle of Talas take place, stopping the westward expansion of Tang China?",
+    "question": {
+      "EN": "In what year did the historic Battle of Talas take place, stopping the westward expansion of Tang China?",
+      "RU": "В каком году состоялась историческая Атлахская (Таласская) битва, остановившая продвижение танского Китая на запад?"
+    },
     "options": {
-      "A": "751 CE",
-      "B": "704 CE",
-      "C": "552 CE",
-      "D": "840 CE"
+      "A": {
+        "EN": "751 CE",
+        "RU": "751 г. н.э."
+      },
+      "B": {
+        "EN": "704 CE",
+        "RU": "704 г. н.э."
+      },
+      "C": {
+        "EN": "552 CE",
+        "RU": "552 г. н.э."
+      },
+      "D": {
+        "EN": "840 CE",
+        "RU": "840 г. н.э."
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 39,
-    "question": "Which Turkic tribe allied with the Abbasid Arab army during the Battle of Talas in 751 CE to secure victory?",
+    "question": {
+      "EN": "Which Turkic tribe allied with the Abbasid Arab army during the Battle of Talas in 751 CE to secure victory?",
+      "RU": "Какое тюркское племя выступило союзником арабской армии Аббасидов во время Таласской битвы 751 г. н.э., обеспечив победу?"
+    },
     "options": {
-      "A": "Karluks",
-      "B": "Kimeks",
-      "C": "Oguz",
-      "D": "Khazars"
+      "A": {
+        "EN": "Karluks",
+        "RU": "Карлуки"
+      },
+      "B": {
+        "EN": "Kimeks",
+        "RU": "Кимаки"
+      },
+      "C": {
+        "EN": "Oguz",
+        "RU": "Огузы"
+      },
+      "D": {
+        "EN": "Khazars",
+        "RU": "Хазары"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 40,
-    "question": "Which state entity replaced the Turgesh Khaganate in Zhetysu in 756 CE?",
+    "question": {
+      "EN": "Which state entity replaced the Turgesh Khaganate in Zhetysu in 756 CE?",
+      "RU": "Какое государственное образование сменило Тюргешский каганат в Семиречье в 756 г. н.э.?"
+    },
     "options": {
-      "A": "Karluk Khaganate",
-      "B": "Oguz Yabgu State",
-      "C": "Kimek Khaganate",
-      "D": "Karakhanid State"
+      "A": {
+        "EN": "Karluk Khaganate",
+        "RU": "Карлукский каганат"
+      },
+      "B": {
+        "EN": "Oguz Yabgu State",
+        "RU": "Огузское ябгуство"
+      },
+      "C": {
+        "EN": "Kimek Khaganate",
+        "RU": "Кимакский каганат"
+      },
+      "D": {
+        "EN": "Karakhanid State",
+        "RU": "Государство Караханидов"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 41,
-    "question": "What was the capital of the Oguz Yabgu State located near the mouth of the Syr Darya River?",
+    "question": {
+      "EN": "What was the capital of the Oguz Yabgu State located near the mouth of the Syr Darya River?",
+      "RU": "Какая столица Огузского государства располагалась вблизи устья реки Сырдарьи?"
+    },
     "options": {
-      "A": "Yangikent (Jankent)",
-      "B": "Suyab",
-      "C": "Balasagun",
-      "D": "Imakia"
+      "A": {
+        "EN": "Yangikent (Jankent)",
+        "RU": "Янгикент (Жанкент)"
+      },
+      "B": {
+        "EN": "Suyab",
+        "RU": "Суяб"
+      },
+      "C": {
+        "EN": "Balasagun",
+        "RU": "Баласагун"
+      },
+      "D": {
+        "EN": "Imakia",
+        "RU": "Имакия"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 42,
-    "question": "What title was held by the supreme ruler of the Oguz state?",
+    "question": {
+      "EN": "What title was held by the supreme ruler of the Oguz state?",
+      "RU": "Какой титул носил верховный правитель Огузского государства?"
+    },
     "options": {
-      "A": "Yabgu",
-      "B": "Khagan",
-      "C": "Sultan",
-      "D": "Gurkhan"
+      "A": {
+        "EN": "Yabgu",
+        "RU": "Ябгу"
+      },
+      "B": {
+        "EN": "Khagan",
+        "RU": "Каган"
+      },
+      "C": {
+        "EN": "Sultan",
+        "RU": "Султан"
+      },
+      "D": {
+        "EN": "Gurkhan",
+        "RU": "Гурхан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 43,
-    "question": "Which tribal confederation occupied North-Eastern Kazakhstan along the Irtysh River between the 9th and 11th centuries?",
+    "question": {
+      "EN": "Which tribal confederation occupied North-Eastern Kazakhstan along the Irtysh River between the 9th and 11th centuries?",
+      "RU": "Какая племенная конфедерация занимала Северо-Восточный Казахстан вдоль реки Иртыш в IX–XI веках?"
+    },
     "options": {
-      "A": "Kimek Khaganate",
-      "B": "Turgesh Khaganate",
-      "C": "Khazar Khaganate",
-      "D": "Wusun State"
+      "A": {
+        "EN": "Kimek Khaganate",
+        "RU": "Кимакский каганат"
+      },
+      "B": {
+        "EN": "Turgesh Khaganate",
+        "RU": "Тюргешский каганат"
+      },
+      "C": {
+        "EN": "Khazar Khaganate",
+        "RU": "Хазарский каганат"
+      },
+      "D": {
+        "EN": "Wusun State",
+        "RU": "Государство усуней"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 44,
-    "question": "Which famous Turkic confederation succeeded the Kimeks in the 11th century and gave their name to the steppe (Desht-i Kipchak)?",
+    "question": {
+      "EN": "Which famous Turkic confederation succeeded the Kimeks in the 11th century and gave their name to the steppe (Desht-i Kipchak)?",
+      "RU": "Какая знаменитая тюркская конфедерация сменила кимаков в XI веке и дала свое название степи (Дешт-и Кипчак)?"
+    },
     "options": {
-      "A": "Kipchaks (Cumans)",
-      "B": "Karluks",
-      "C": "Salar",
-      "D": "Khazars"
+      "A": {
+        "EN": "Kipchaks (Cumans)",
+        "RU": "Кипчаки (половцы)"
+      },
+      "B": {
+        "EN": "Karluks",
+        "RU": "Карлуки"
+      },
+      "C": {
+        "EN": "Salar",
+        "RU": "Салары"
+      },
+      "D": {
+        "EN": "Khazars",
+        "RU": "Хазары"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 45,
-    "question": "What major 14th-century linguistic manuscript contains a dictionary of the Kipchak (Cuman) language compiled for Christian missionaries?",
+    "question": {
+      "EN": "What major 14th-century linguistic manuscript contains a dictionary of the Kipchak (Cuman) language compiled for Christian missionaries?",
+      "RU": "Какой крупный лингвистический манускрипт XIV века содержит словарь кипчакского (половецкого) языка, составленный для христианских миссионеров?"
+    },
     "options": {
-      "A": "Codex Cumanicus",
-      "B": "Diwan Lughat al-Turk",
-      "C": "Kutadgu Bilig",
-      "D": "Divan-i Hikmet"
+      "A": {
+        "EN": "Codex Cumanicus",
+        "RU": "«Кодекс Куманикус»"
+      },
+      "B": {
+        "EN": "Diwan Lughat al-Turk",
+        "RU": "«Диван лугат ат-тюрк»"
+      },
+      "C": {
+        "EN": "Kutadgu Bilig",
+        "RU": "«Кутадгу билиг»"
+      },
+      "D": {
+        "EN": "Divan-i Hikmet",
+        "RU": "«Диван-и хикмет»"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 46,
-    "question": "What script was used by ancient Turks on stone stelae dedicated to Bilge Khagan, Kul Tegin, and Tonyukuk along the Orkhon and Yenisei rivers?",
+    "question": {
+      "EN": "What script was used by ancient Turks on stone stelae dedicated to Bilge Khagan, Kul Tegin, and Tonyukuk along the Orkhon and Yenisei rivers?",
+      "RU": "Какая письменность использовалась древними тюрками на каменных стелах, посвященных Билге-кагану, Кюль-тегину и Тоныкуку вдоль Орхона и Енисея?"
+    },
     "options": {
-      "A": "Orkhon-Yenisei Runic script",
-      "B": "Arabic script",
-      "C": "Sogdian script",
-      "D": "Brahmi script"
+      "A": {
+        "EN": "Orkhon-Yenisei Runic script",
+        "RU": "Орхонско-енисейское руническое письмо"
+      },
+      "B": {
+        "EN": "Arabic script",
+        "RU": "Арабская письменность"
+      },
+      "C": {
+        "EN": "Sogdian script",
+        "RU": "Согдийская письменность"
+      },
+      "D": {
+        "EN": "Brahmi script",
+        "RU": "Письменность брахми"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 47,
-    "question": "What was the main council of elders/nobles in the Oguz Yabgu State called?",
+    "question": {
+      "EN": "What was the main council of elders/nobles in the Oguz Yabgu State called?",
+      "RU": "Как назывался главный совет старейшин/знати в Огузском ябгустве?"
+    },
     "options": {
-      "A": "Kankhash",
-      "B": "Kurultai",
-      "C": "Majlis",
-      "D": "Veche"
+      "A": {
+        "EN": "Kankhash",
+        "RU": "Канкаш"
+      },
+      "B": {
+        "EN": "Kurultai",
+        "RU": "Курултай"
+      },
+      "C": {
+        "EN": "Majlis",
+        "RU": "Меджлис"
+      },
+      "D": {
+        "EN": "Veche",
+        "RU": "Вече"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 48,
-    "question": "Which Oguz military commander broke away from the Oguz Yabgu in the late 10th century and founded the Seljuk Empire?",
+    "question": {
+      "EN": "Which Oguz military commander broke away from the Oguz Yabgu in the late 10th century and founded the Seljuk Empire?",
+      "RU": "Какой огузский военачальник отделился от огузского ябгу в конце X века и основал Государство сельджуков?"
+    },
     "options": {
-      "A": "Seljuk ibn Yaqaq",
-      "B": "Kultegin",
-      "C": "Tukak",
-      "D": "Alp Arslan"
+      "A": {
+        "EN": "Seljuk ibn Yaqaq",
+        "RU": "Сельджук ибн Токак (Якак)"
+      },
+      "B": {
+        "EN": "Kultegin",
+        "RU": "Кюль-тегин"
+      },
+      "C": {
+        "EN": "Tukak",
+        "RU": "Токак"
+      },
+      "D": {
+        "EN": "Alp Arslan",
+        "RU": "Алп Арслан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 49,
-    "question": "Which foreign non-Muslim nomadic group from North China invaded Zhetysu in the 12th century and established the Qara Khitai Khanate?",
+    "question": {
+      "EN": "Which foreign non-Muslim nomadic group from North China invaded Zhetysu in the 12th century and established the Qara Khitai Khanate?",
+      "RU": "Какая внешняя некочевая немусульманская группа из Северного Китая вторглась в Семиречье в XII веке и основала государство каракитаев?"
+    },
     "options": {
-      "A": "Qara Khitai (Liao dynasty remnants)",
-      "B": "Tanguts",
-      "C": "Jurchens",
-      "D": "Mongols"
+      "A": {
+        "EN": "Qara Khitai (Liao dynasty remnants)",
+        "RU": "Каракитаи (остатки династии Ляо)"
+      },
+      "B": {
+        "EN": "Tanguts",
+        "RU": "Тангуты"
+      },
+      "C": {
+        "EN": "Jurchens",
+        "RU": "Чжурчжэни"
+      },
+      "D": {
+        "EN": "Mongols",
+        "RU": "Монголы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 50,
-    "question": "What title was adopted by the ruler of the Qara Khitai State?",
+    "question": {
+      "EN": "What title was adopted by the ruler of the Qara Khitai State?",
+      "RU": "Какой титул принял правитель государства каракитаев?"
+    },
     "options": {
-      "A": "Gurkhan",
-      "B": "Khagan",
-      "C": "Yabgu",
-      "D": "Shah"
+      "A": {
+        "EN": "Gurkhan",
+        "RU": "Гурхан"
+      },
+      "B": {
+        "EN": "Khagan",
+        "RU": "Каган"
+      },
+      "C": {
+        "EN": "Yabgu",
+        "RU": "Ябгу"
+      },
+      "D": {
+        "EN": "Shah",
+        "RU": "Шах"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 51,
-    "question": "In which battle in 1141 did the Qara Khitai defeat the combined forces of the Seljuks and Karakhanids?",
+    "question": {
+      "EN": "In which battle in 1141 did the Qara Khitai defeat the combined forces of the Seljuks and Karakhanids?",
+      "RU": "В какой битве в 1141 году каракитаи разгромили объединенные силы сельджуков и караханидов?"
+    },
     "options": {
-      "A": "Battle of Qatwan",
-      "B": "Battle of Talas",
-      "C": "Battle of Kalka",
-      "D": "Battle of Kulikovo"
+      "A": {
+        "EN": "Battle of Qatwan",
+        "RU": "Катванская битва"
+      },
+      "B": {
+        "EN": "Battle of Talas",
+        "RU": "Таласская битва"
+      },
+      "C": {
+        "EN": "Battle of Kalka",
+        "RU": "Битва на Калке"
+      },
+      "D": {
+        "EN": "Battle of Kulikovo",
+        "RU": "Куликовская битва"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 52,
-    "question": "What was the primary social tax paid by pastoral nomads in early medieval Turkic states in the form of livestock?",
+    "question": {
+      "EN": "What was the primary social tax paid by pastoral nomads in early medieval Turkic states in the form of livestock?",
+      "RU": "Каким основным социальным налогом в виде скота облагались кочевники в раннесредневековых тюркских государствах?"
+    },
     "options": {
-      "A": "Zaket / Qopchur",
-      "B": "Jizya",
-      "C": "Kharaj",
-      "D": "Tamga"
+      "A": {
+        "EN": "Zaket / Qopchur",
+        "RU": "Закят / Копчур"
+      },
+      "B": {
+        "EN": "Jizya",
+        "RU": "Джизья"
+      },
+      "C": {
+        "EN": "Kharaj",
+        "RU": "Харадж"
+      },
+      "D": {
+        "EN": "Tamga",
+        "RU": "Тамга"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 53,
-    "question": "Which Turkic tribe formed the core 7-tribe confederation of the Kimek Khaganate?",
+    "question": {
+      "EN": "Which Turkic tribe formed the core 7-tribe confederation of the Kimek Khaganate?",
+      "RU": "Какие тюркские племена составляли ядро конфедерации из 7 племен Кимакского каганата?"
+    },
     "options": {
-      "A": "Kipchaks, Eymur, Tatar, Bayandur, Lanikaz, Ajlad, Imur",
-      "B": "Karluk, Argyn, Naiman, Jalair, Dulat, Kerait, Khazar",
-      "C": "Oguz, Pecheneg, Cuman, Bulgar, Magyar, Alan, Hun",
-      "D": "Dulo, Nushipi, Ashina, Turgesh, Basmyl, Uyghur, Kyrgyz"
+      "A": {
+        "EN": "Kipchaks, Eymur, Tatar, Bayandur, Lanikaz, Ajlad, Imur",
+        "RU": "Кипчаки, эймуры, татары, баяндуры, ланиказы, ажлады, имуры"
+      },
+      "B": {
+        "EN": "Karluk, Argyn, Naiman, Jalair, Dulat, Kerait, Khazar",
+        "RU": "Карлуки, аргыны, найманы, жалаиры, дулаты, кереиты, хазары"
+      },
+      "C": {
+        "EN": "Oguz, Pecheneg, Cuman, Bulgar, Magyar, Alan, Hun",
+        "RU": "Огузы, печенеги, половцы, булгары, мадьяры, аланы, гунны"
+      },
+      "D": {
+        "EN": "Dulo, Nushipi, Ashina, Turgesh, Basmyl, Uyghur, Kyrgyz",
+        "RU": "Дуло, нушипи, ашина, тюргеши, басмылы, уйгуры, кыргызы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 54,
-    "question": "What major river served as the territorial homeland of the Kimek Khaganate?",
+    "question": {
+      "EN": "What major river served as the territorial homeland of the Kimek Khaganate?",
+      "RU": "Какая крупная река служила территориальной родиной Кимакского каганата?"
+    },
     "options": {
-      "A": "Irtysh River",
-      "B": "Volga River",
-      "C": "Dnieper River",
-      "D": "Amur River"
+      "A": {
+        "EN": "Irtysh River",
+        "RU": "Река Иртыш"
+      },
+      "B": {
+        "EN": "Volga River",
+        "RU": "Река Волга"
+      },
+      "C": {
+        "EN": "Dnieper River",
+        "RU": "Река Днепр"
+      },
+      "D": {
+        "EN": "Amur River",
+        "RU": "Река Амур"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 55,
-    "question": "What caused the internal breakdown of the Turgesh Khaganate in the mid-8th century?",
+    "question": {
+      "EN": "What caused the internal breakdown of the Turgesh Khaganate in the mid-8th century?",
+      "RU": "Что стало причиной внутреннего распада Тюргешского каганата в середине VIII века?"
+    },
     "options": {
-      "A": "Feud between Yellow (Sary) and Black (Kara) Turgesh factions",
-      "B": "Invasion by Genghis Khan",
-      "C": "Mongolian crusade",
-      "D": "Russian annexation"
+      "A": {
+        "EN": "Feud between Yellow (Sary) and Black (Kara) Turgesh factions",
+        "RU": "Усобица между желтыми (сары) и черными (кара) тюргешами"
+      },
+      "B": {
+        "EN": "Invasion by Genghis Khan",
+        "RU": "Нашествие Чингисхана"
+      },
+      "C": {
+        "EN": "Mongolian crusade",
+        "RU": "Монгольский крестовый поход"
+      },
+      "D": {
+        "EN": "Russian annexation",
+        "RU": "Российское присоединение"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 56,
-    "question": "Stone ancestor statues erected by early medieval Turks over burial grounds are called:",
+    "question": {
+      "EN": "Stone ancestor statues erected by early medieval Turks over burial grounds are called:",
+      "RU": "Как называются каменные изваяния предков, устанавливаемые раннесредневековыми тюрками над погребениями?"
+    },
     "options": {
-      "A": "Balbals",
-      "B": "Kurgans",
-      "C": "Sardobas",
-      "D": "Mausoleums"
+      "A": {
+        "EN": "Balbals",
+        "RU": "Балбалы"
+      },
+      "B": {
+        "EN": "Kurgans",
+        "RU": "Курганы"
+      },
+      "C": {
+        "EN": "Sardobas",
+        "RU": "Сардобы"
+      },
+      "D": {
+        "EN": "Mausoleums",
+        "RU": "Мавзолеи"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 57,
-    "question": "What language family did the ancient Turkic runic inscriptions belong to?",
+    "question": {
+      "EN": "What language family did the ancient Turkic runic inscriptions belong to?",
+      "RU": "К какой языковой семье принадлежали древнетюркские рунические надписи?"
+    },
     "options": {
-      "A": "Turkic language family",
-      "B": "Indo-European language family",
-      "C": "Sino-Tibetan language family",
-      "D": "Uralic language family"
+      "A": {
+        "EN": "Turkic language family",
+        "RU": "Тюркская языковая семья"
+      },
+      "B": {
+        "EN": "Indo-European language family",
+        "RU": "Индоевропейская языковая семья"
+      },
+      "C": {
+        "EN": "Sino-Tibetan language family",
+        "RU": "Сино-тибетская языковая семья"
+      },
+      "D": {
+        "EN": "Uralic language family",
+        "RU": "Уральская языковая семья"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 58,
-    "question": "Which city was the capital of the East Turkic and later Uyghur Khaganates on the Orkhon River?",
+    "question": {
+      "EN": "Which city was the capital of the East Turkic and later Uyghur Khaganates on the Orkhon River?",
+      "RU": "Какой город был столицей Восточно-Тюркского, а затем Уйгурского каганатов на реке Орхон?"
+    },
     "options": {
-      "A": "Ordu-Baliq",
-      "B": "Suyab",
-      "C": "Yangikent",
-      "D": "Sarai"
+      "A": {
+        "EN": "Ordu-Baliq",
+        "RU": "Орду-Балык"
+      },
+      "B": {
+        "EN": "Suyab",
+        "RU": "Суяб"
+      },
+      "C": {
+        "EN": "Yangikent",
+        "RU": "Янгикент"
+      },
+      "D": {
+        "EN": "Sarai",
+        "RU": "Сарай"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 59,
-    "question": "Who was the famous advisor and grand vizier featured on runic stelae who served three Eastern Turkic khagans?",
+    "question": {
+      "EN": "Who was the famous advisor and grand vizier featured on runic stelae who served three Eastern Turkic khagans?",
+      "RU": "Кто был знаменитым советником и великим визирем, упомянутым на рунических стелах, служившим трем восточно-тюркским каганам?"
+    },
     "options": {
-      "A": "Tonyukuk",
-      "B": "Kul Tegin",
-      "C": "Bilge Khagan",
-      "D": "Bumin Khagan"
+      "A": {
+        "EN": "Tonyukuk",
+        "RU": "Тоныкук"
+      },
+      "B": {
+        "EN": "Kul Tegin",
+        "RU": "Кюль-тегин"
+      },
+      "C": {
+        "EN": "Bilge Khagan",
+        "RU": "Билге-каган"
+      },
+      "D": {
+        "EN": "Bumin Khagan",
+        "RU": "Бумын-каган"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 60,
-    "question": "Which Kipchak ruler's name is associated with resistance against the early Mongol incursions in the early 13th century?",
+    "question": {
+      "EN": "Which Kipchak ruler's name is associated with resistance against the early Mongol incursions in the early 13th century?",
+      "RU": "Имя какого кипчакского правителя связано с сопротивлением ранним монгольским вторжениям в начале XIII века?"
+    },
     "options": {
-      "A": "Bachman Khan",
-      "B": "Suluk Khagan",
-      "C": "Wuzhile",
-      "D": "Satuq Bughra"
+      "A": {
+        "EN": "Bachman Khan",
+        "RU": "Бахман-хан"
+      },
+      "B": {
+        "EN": "Suluk Khagan",
+        "RU": "Сулук-каган"
+      },
+      "C": {
+        "EN": "Wuzhile",
+        "RU": "Ужиле"
+      },
+      "D": {
+        "EN": "Satuq Bughra",
+        "RU": "Сатук Богра"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 61,
-    "question": "Which state was the first Turkic empire to adopt Islam as its official state religion in 960 CE?",
+    "question": {
+      "EN": "Which state was the first Turkic empire to adopt Islam as its official state religion in 960 CE?",
+      "RU": "Какое государство стало первой тюркской империей, принявшей ислам в качестве официальной государственной религии в 960 году н.э.?"
+    },
     "options": {
-      "A": "Karakhanid State",
-      "B": "Western Turkic Khaganate",
-      "C": "Gaznavid Empire",
-      "D": "Kimek Khaganate"
+      "A": {
+        "EN": "Karakhanid State",
+        "RU": "Государство Караханидов"
+      },
+      "B": {
+        "EN": "Western Turkic Khaganate",
+        "RU": "Западно-Тюркский каганат"
+      },
+      "C": {
+        "EN": "Gaznavid Empire",
+        "RU": "Государство Газневидов"
+      },
+      "D": {
+        "EN": "Kimek Khaganate",
+        "RU": "Кимакский каганат"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 62,
-    "question": "Who was the Karakhanid ruler who converted to Islam and paved the way for Islamization of the state?",
+    "question": {
+      "EN": "Who was the Karakhanid ruler who converted to Islam and paved the way for Islamization of the state?",
+      "RU": "Кто из караханидских правителей принял ислам и проложил путь к исламизации государства?"
+    },
     "options": {
-      "A": "Satuq Bughra Khan",
-      "B": "Ibrahim Tamghach Khan",
-      "C": "Yusuf Khass Hajib",
-      "D": "Mahmud al-Kashgari"
+      "A": {
+        "EN": "Satuq Bughra Khan",
+        "RU": "Сатук Богра-хан"
+      },
+      "B": {
+        "EN": "Ibrahim Tamghach Khan",
+        "RU": "Ибрагим Тамгач-хан"
+      },
+      "C": {
+        "EN": "Yusuf Khass Hajib",
+        "RU": "Юсуф Хасс Хаджиб"
+      },
+      "D": {
+        "EN": "Mahmud al-Kashgari",
+        "RU": "Махмуд Кашгари"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 63,
-    "question": "What system of land grants for military and civil service was widely implemented in the Karakhanid State?",
+    "question": {
+      "EN": "What system of land grants for military and civil service was widely implemented in the Karakhanid State?",
+      "RU": "Какая система земельных наделов за военную и гражданскую службу получила широкое распространение в Караханидском государстве?"
+    },
     "options": {
-      "A": "Iqta",
-      "B": "Soyurghal",
-      "C": "Tanap",
-      "D": "Yassa"
+      "A": {
+        "EN": "Iqta",
+        "RU": "Икта"
+      },
+      "B": {
+        "EN": "Soyurghal",
+        "RU": "Суюргал"
+      },
+      "C": {
+        "EN": "Tanap",
+        "RU": "Танап"
+      },
+      "D": {
+        "EN": "Yassa",
+        "RU": "Яса"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 64,
-    "question": "Who authored the monumental 11th-century Turkic dictionary 'Dīwān Lughāt at-Turk' (Compendium of the Languages of the Turks)?",
+    "question": {
+      "EN": "Who authored the monumental 11th-century Turkic dictionary 'Dīwān Lughāt at-Turk' (Compendium of the Languages of the Turks)?",
+      "RU": "Кто является автором монументального тюркского словаря XI века «Диван лугат ат-тюрк» («Сборник языков тюрков»)?"
+    },
     "options": {
-      "A": "Mahmud al-Kashgari",
-      "B": "Yusuf Khass Hajib",
-      "C": "Khoja Ahmed Yasawi",
-      "D": "Al-Farabi"
+      "A": {
+        "EN": "Mahmud al-Kashgari",
+        "RU": "Махмуд Кашгари"
+      },
+      "B": {
+        "EN": "Yusuf Khass Hajib",
+        "RU": "Юсуф Хасс Хаджиб"
+      },
+      "C": {
+        "EN": "Khoja Ahmed Yasawi",
+        "RU": "Кожа Ахмед Ясави"
+      },
+      "D": {
+        "EN": "Al-Farabi",
+        "RU": "Аль-Фараби"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 65,
-    "question": "What unique feature was included in Mahmud al-Kashgari's 'Dīwān Lughāt at-Turk'?",
+    "question": {
+      "EN": "What unique feature was included in Mahmud al-Kashgari's 'Dīwān Lughāt at-Turk'?",
+      "RU": "Какая уникальная особенность содержалась в труде Махмуда Кашгари «Диван лугат ат-тюрк»?"
+    },
     "options": {
-      "A": "The first world map centered on Turkic lands",
-      "B": "The text of the Great Yassa",
-      "C": "Architectural plans for mausoleums",
-      "D": "A guide to mining copper"
+      "A": {
+        "EN": "The first world map centered on Turkic lands",
+        "RU": "Первая карта мира с центром на тюркских землях"
+      },
+      "B": {
+        "EN": "The text of the Great Yassa",
+        "RU": "Текст Великой Ясы"
+      },
+      "C": {
+        "EN": "Architectural plans for mausoleums",
+        "RU": "Архитектурные планы мавзолеев"
+      },
+      "D": {
+        "EN": "A guide to mining copper",
+        "RU": "Руководство по добыче меди"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 66,
-    "question": "Who wrote the famous 1069 didactic poem 'Kutadgu Bilig' (Wisdom of Royal Glory) presented to the ruler of Kashgar?",
+    "question": {
+      "EN": "Who wrote the famous 1069 didactic poem 'Kutadgu Bilig' (Wisdom of Royal Glory) presented to the ruler of Kashgar?",
+      "RU": "Кто написал знаменитую дидактическую поэму 1069 года «Кутадгу билиг» («Благодатное знание»), преподнесенную правителю Кашгара?"
+    },
     "options": {
-      "A": "Yusuf Khass Hajib",
-      "B": "Mahmud al-Kashgari",
-      "C": "Al-Farabi",
-      "D": "Suleyman Bakirgani"
+      "A": {
+        "EN": "Yusuf Khass Hajib",
+        "RU": "Юсуф Хасс Хаджиб"
+      },
+      "B": {
+        "EN": "Mahmud al-Kashgari",
+        "RU": "Махмуд Кашгари"
+      },
+      "C": {
+        "EN": "Al-Farabi",
+        "RU": "Аль-Фараби"
+      },
+      "D": {
+        "EN": "Suleyman Bakirgani",
+        "RU": "Сулейман Бакыргани"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 67,
-    "question": "Which renowned philosopher and polymath known in the Islamic world as the 'Second Teacher' (after Aristotle) was born in Otrar (Farab)?",
+    "question": {
+      "EN": "Which renowned philosopher and polymath known in the Islamic world as the 'Second Teacher' (after Aristotle) was born in Otrar (Farab)?",
+      "RU": "Какой выдающийся философ и энциклопедист, известный в исламском мире как «Второй учитель» (после Аристотеля), родился в Отраре (Фарабе)?"
+    },
     "options": {
-      "A": "Abu Nasr al-Farabi",
-      "B": "Ibn Sina (Avicenna)",
-      "C": "Al-Biruni",
-      "D": "Al-Khwarizmi"
+      "A": {
+        "EN": "Abu Nasr al-Farabi",
+        "RU": "Абу Наср аль-Фараби"
+      },
+      "B": {
+        "EN": "Ibn Sina (Avicenna)",
+        "RU": "Ибн Сина (Авиценна)"
+      },
+      "C": {
+        "EN": "Al-Biruni",
+        "RU": "Аль-Бируни"
+      },
+      "D": {
+        "EN": "Al-Khwarizmi",
+        "RU": "Аль-Хорезми"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 68,
-    "question": "Who was the prominent 12th-century Sufi master and poet who established Turkic Sufism and authored 'Divan-i Hikmet'?",
+    "question": {
+      "EN": "Who was the prominent 12th-century Sufi master and poet who established Turkic Sufism and authored 'Divan-i Hikmet'?",
+      "RU": "Кто был видным суфийским мастером и поэтом XII века, заложившим основы тюркского суфизма и написавшим «Диван-и хикмет»?"
+    },
     "options": {
-      "A": "Khoja Ahmed Yasawi",
-      "B": "Suleyman Bakirgani",
-      "C": "Asan Kaigy",
-      "D": "Dospambet Zhyrau"
+      "A": {
+        "EN": "Khoja Ahmed Yasawi",
+        "RU": "Кожа Ахмед Ясави"
+      },
+      "B": {
+        "EN": "Suleyman Bakirgani",
+        "RU": "Сулейман Бакыргани"
+      },
+      "C": {
+        "EN": "Asan Kaigy",
+        "RU": "Асан Кайгы"
+      },
+      "D": {
+        "EN": "Dospambet Zhyrau",
+        "RU": "Доспамбет жырау"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 69,
-    "question": "In which city is the grand architectural complex and Mausoleum of Khoja Ahmed Yasawi located?",
+    "question": {
+      "EN": "In which city is the grand architectural complex and Mausoleum of Khoja Ahmed Yasawi located?",
+      "RU": "В каком городе расположен грандиозный архитектурный комплекс и мавзолей Кожа Ахмеда Ясави?"
+    },
     "options": {
-      "A": "Turkestan (Yasi)",
-      "B": "Taraz",
-      "C": "Otrar",
-      "D": "Almaty"
+      "A": {
+        "EN": "Turkestan (Yasi)",
+        "RU": "Туркестан (Ясы)"
+      },
+      "B": {
+        "EN": "Taraz",
+        "RU": "Тараз"
+      },
+      "C": {
+        "EN": "Otrar",
+        "RU": "Отрар"
+      },
+      "D": {
+        "EN": "Almaty",
+        "RU": "Алматы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 70,
-    "question": "Which famous 11th–12th century mausoleum near Taraz is world-renowned for its terracotta carved facade decoration and legend of tragic love?",
+    "question": {
+      "EN": "Which famous 11th–12th century mausoleum near Taraz is world-renowned for its terracotta carved facade decoration and legend of tragic love?",
+      "RU": "Какой известный мавзолей XI–XII веков близ Тараза всемирно известен своим резным терракотовым фасадом и легендой о трагической любви?"
+    },
     "options": {
-      "A": "Aisha Bibi Mausoleum",
-      "B": "Babaji Khatun Mausoleum",
-      "C": "Jochi Khan Mausoleum",
-      "D": "Arystan Bab Mausoleum"
+      "A": {
+        "EN": "Aisha Bibi Mausoleum",
+        "RU": "Мавзолей Айша-биби"
+      },
+      "B": {
+        "EN": "Babaji Khatun Mausoleum",
+        "RU": "Мавзолей Бабаджи-катун"
+      },
+      "C": {
+        "EN": "Jochi Khan Mausoleum",
+        "RU": "Мавзолей Джучи-хана"
+      },
+      "D": {
+        "EN": "Arystan Bab Mausoleum",
+        "RU": "Мавзолей Арыстан-баба"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 71,
-    "question": "Which ancient trade network connected China with Europe and the Mediterranean through the territory of South and East Kazakhstan?",
+    "question": {
+      "EN": "Which ancient trade network connected China with Europe and the Mediterranean through the territory of South and East Kazakhstan?",
+      "RU": "Какая древняя торговая сеть связывала Китай с Европой и Средиземноморьем через территорию Южного и Восточного Казахстана?"
+    },
     "options": {
-      "A": "Great Silk Road",
-      "B": "Amber Road",
-      "C": "Incense Route",
-      "D": "Tea Horse Road"
+      "A": {
+        "EN": "Great Silk Road",
+        "RU": "Великий Шелковый путь"
+      },
+      "B": {
+        "EN": "Amber Road",
+        "RU": "Янтарный путь"
+      },
+      "C": {
+        "EN": "Incense Route",
+        "RU": "Путь благовоний"
+      },
+      "D": {
+        "EN": "Tea Horse Road",
+        "RU": "Чайный путь"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 72,
-    "question": "Which Central Asian merchant group played the primary role as international traders and cultural intermediaries along the Silk Road during the 1st millennium CE?",
+    "question": {
+      "EN": "Which Central Asian merchant group played the primary role as international traders and cultural intermediaries along the Silk Road during the 1st millennium CE?",
+      "RU": "Какая среднеазиатская купеческая группа играла главную роль международных торговцев и культурных посредников на Шелковом пути в I тысячелетии н.э.?"
+    },
     "options": {
-      "A": "Sogdians",
-      "B": "Persians",
-      "C": "Khazars",
-      "D": "Arabs"
+      "A": {
+        "EN": "Sogdians",
+        "RU": "Согдийцы"
+      },
+      "B": {
+        "EN": "Persians",
+        "RU": "Персы"
+      },
+      "C": {
+        "EN": "Khazars",
+        "RU": "Хазары"
+      },
+      "D": {
+        "EN": "Arabs",
+        "RU": "Арабы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 73,
-    "question": "Which city on the Syr Darya was a major cultural and trade hub of Southern Kazakhstan, famous for its ancient library and ceramics?",
+    "question": {
+      "EN": "Which city on the Syr Darya was a major cultural and trade hub of Southern Kazakhstan, famous for its ancient library and ceramics?",
+      "RU": "Какой город на Сырдарье был крупным культурным и торговым центром Южного Казахстана, славившимся своей древней библиотекой и керамикой?"
+    },
     "options": {
-      "A": "Otrar (Farab)",
-      "B": "Suyab",
-      "C": "Balasagun",
-      "D": "Saraichik"
+      "A": {
+        "EN": "Otrar (Farab)",
+        "RU": "Отрар (Фараб)"
+      },
+      "B": {
+        "EN": "Suyab",
+        "RU": "Суяб"
+      },
+      "C": {
+        "EN": "Balasagun",
+        "RU": "Баласагун"
+      },
+      "D": {
+        "EN": "Saraichik",
+        "RU": "Сарайчик"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 74,
-    "question": "Which city on the Silk Road was known as the 'City of Merchants' and served as a key economic hub in Zhetysu?",
+    "question": {
+      "EN": "Which city on the Silk Road was known as the 'City of Merchants' and served as a key economic hub in Zhetysu?",
+      "RU": "Какой город на Шелковом пути был известен как «город торговцев» и служил ключевым экономическим центром в Семиречье?"
+    },
     "options": {
-      "A": "Taraz",
-      "B": "Otrar",
-      "C": "Sygnak",
-      "D": "Turkestan"
+      "A": {
+        "EN": "Taraz",
+        "RU": "Тараз"
+      },
+      "B": {
+        "EN": "Otrar",
+        "RU": "Отрар"
+      },
+      "C": {
+        "EN": "Sygnak",
+        "RU": "Сыгнак"
+      },
+      "D": {
+        "EN": "Turkestan",
+        "RU": "Туркестан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 75,
-    "question": "What public sanitation feature was discovered by archaeologists in medieval Kazakh cities such as Otrar and Taraz?",
+    "question": {
+      "EN": "What public sanitation feature was discovered by archaeologists in medieval Kazakh cities such as Otrar and Taraz?",
+      "RU": "Какая система коммунального благоустройства была обнаружена археологами в средневековых казахских городах, таких как Отрар и Тараз?"
+    },
     "options": {
-      "A": "Ceramic water pipe systems (tazalyq/taz) and public hammams",
-      "B": "Aqueducts imported from Rome",
-      "C": "Wooden canals",
-      "D": "Underground rivers"
+      "A": {
+        "EN": "Ceramic water pipe systems (tazalyq/taz) and public hammams",
+        "RU": "Системы керамических водопроводов и общественные бани-хаммамы"
+      },
+      "B": {
+        "EN": "Aqueducts imported from Rome",
+        "RU": "Акведуки, импортированные из Рима"
+      },
+      "C": {
+        "EN": "Wooden canals",
+        "RU": "Деревянные каналы"
+      },
+      "D": {
+        "EN": "Underground rivers",
+        "RU": "Подземные реки"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 76,
-    "question": "Who ordered the construction of the monumental new Mausoleum over the grave of Khoja Ahmed Yasawi in the late 14th century?",
+    "question": {
+      "EN": "Who ordered the construction of the monumental new Mausoleum over the grave of Khoja Ahmed Yasawi in the late 14th century?",
+      "RU": "Кто приказал построить монументальный новый мавзолей над могилой Кожа Ахмеда Ясави в конце XIV века?"
+    },
     "options": {
-      "A": "Amir Timur (Tamerlane)",
-      "B": "Genghis Khan",
-      "C": "Batu Khan",
-      "D": "Ozbeg Khan"
+      "A": {
+        "EN": "Amir Timur (Tamerlane)",
+        "RU": "Амир Тимур (Тамерлан)"
+      },
+      "B": {
+        "EN": "Genghis Khan",
+        "RU": "Чингисхан"
+      },
+      "C": {
+        "EN": "Batu Khan",
+        "RU": "Бату-хан"
+      },
+      "D": {
+        "EN": "Ozbeg Khan",
+        "RU": "Узбек-хан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 77,
-    "question": "What famous disciple of Khoja Ahmed Yasawi wrote 'Baqyrghan Kitabi'?",
+    "question": {
+      "EN": "What famous disciple of Khoja Ahmed Yasawi wrote 'Baqyrghan Kitabi'?",
+      "RU": "Кто из знаменитых учеников Кожа Ахмеда Ясави написал «Бакыррган китаби»?"
+    },
     "options": {
-      "A": "Suleyman Bakirgani (Hakim Ata)",
-      "B": "Yusuf Khass Hajib",
-      "C": "Al-Farabi",
-      "D": "Mahmud Kashgari"
+      "A": {
+        "EN": "Suleyman Bakirgani (Hakim Ata)",
+        "RU": "Сулейман Бакыргани (Хаким-ата)"
+      },
+      "B": {
+        "EN": "Yusuf Khass Hajib",
+        "RU": "Юсуф Хасс Хаджиб"
+      },
+      "C": {
+        "EN": "Al-Farabi",
+        "RU": "Аль-Фараби"
+      },
+      "D": {
+        "EN": "Mahmud Kashgari",
+        "RU": "Махмуд Кашгари"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 78,
-    "question": "What type of currency was minted and widely used in medieval urban centers of South Kazakhstan under Karakhanid rule?",
+    "question": {
+      "EN": "What type of currency was minted and widely used in medieval urban centers of South Kazakhstan under Karakhanid rule?",
+      "RU": "Какие типы монет чеканились и широко использовались в средневековых городских центрах Южного Казахстана при Караханидах?"
+    },
     "options": {
-      "A": "Silver dirhams and copper fels",
-      "B": "Paper notes (Chao)",
-      "C": "Gold florins",
-      "D": "Cowrie shells"
+      "A": {
+        "EN": "Silver dirhams and copper fels",
+        "RU": "Серебряные дирхамы и медные фельсы"
+      },
+      "B": {
+        "EN": "Paper notes (Chao)",
+        "RU": "Бумажные деньги (чао)"
+      },
+      "C": {
+        "EN": "Gold florins",
+        "RU": "Золотые флорины"
+      },
+      "D": {
+        "EN": "Cowrie shells",
+        "RU": "Ракушки каури"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 79,
-    "question": "Which non-Islamic religions were peacefully practiced along the Silk Road in Zhetysu alongside traditional Tengriism before Islam?",
+    "question": {
+      "EN": "Which non-Islamic religions were peacefully practiced along the Silk Road in Zhetysu alongside traditional Tengriism before Islam?",
+      "RU": "Какие немусульманские религии мирно практиковались на Шелковом пути в Семиречье наряду с традиционным тенгрианством до распространения ислама?"
+    },
     "options": {
-      "A": "Buddhism, Nestorian Christianity, and Zoroastrianism",
-      "B": "Shintoism and Taoism",
-      "C": "Judaism only",
-      "D": "Hinduism only"
+      "A": {
+        "EN": "Buddhism, Nestorian Christianity, and Zoroastrianism",
+        "RU": "Буддизм, несторианское христианство и зороастризм"
+      },
+      "B": {
+        "EN": "Shintoism and Taoism",
+        "RU": "Синтоизм и даосизм"
+      },
+      "C": {
+        "EN": "Judaism only",
+        "RU": "Только иудаизм"
+      },
+      "D": {
+        "EN": "Hinduism only",
+        "RU": "Только индуизм"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 80,
-    "question": "Christian tomb markers inscribed with Syriac and Turkic script found near Navaket and Jamukat are known as:",
+    "question": {
+      "EN": "Christian tomb markers inscribed with Syriac and Turkic script found near Navaket and Jamukat are known as:",
+      "RU": "Как называются христианские надгробные камни с надписями на сирийском и тюркском языках, найденные близ Навакета и Джамуката?"
+    },
     "options": {
-      "A": "Kairaks",
-      "B": "Balbals",
-      "C": "Stelae",
-      "D": "Kurgans"
+      "A": {
+        "EN": "Kairaks",
+        "RU": "Кайраки"
+      },
+      "B": {
+        "EN": "Balbals",
+        "RU": "Балбалы"
+      },
+      "C": {
+        "EN": "Stelae",
+        "RU": "Стелы"
+      },
+      "D": {
+        "EN": "Kurgans",
+        "RU": "Курганы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 81,
-    "question": "Which Empire expanded into Central Asia in the early 13th century under Shah Ala ad-Din Muhammad II right before the Mongol invasion?",
+    "question": {
+      "EN": "Which Empire expanded into Central Asia in the early 13th century under Shah Ala ad-Din Muhammad II right before the Mongol invasion?",
+      "RU": "Какая империя расширилась на Центральную Азию в начале XIII века при шахе Ала ад-Дине Мухаммаде II прямо перед монгольским нашествием?"
+    },
     "options": {
-      "A": "Khwarazmian Empire",
-      "B": "Samanid Empire",
-      "C": "Ghaznavid Empire",
-      "D": "Abbasid Caliphate"
+      "A": {
+        "EN": "Khwarazmian Empire",
+        "RU": "Государство Хорезмшахов"
+      },
+      "B": {
+        "EN": "Samanid Empire",
+        "RU": "Государство Саманидов"
+      },
+      "C": {
+        "EN": "Ghaznavid Empire",
+        "RU": "Государство Газневидов"
+      },
+      "D": {
+        "EN": "Abbasid Caliphate",
+        "RU": "Аббасидский халифат"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 82,
-    "question": "Which city served as a co-capital of the Karakhanid State in the Chu Valley alongside Kashgar?",
+    "question": {
+      "EN": "Which city served as a co-capital of the Karakhanid State in the Chu Valley alongside Kashgar?",
+      "RU": "Какой город наряду с Кашгаром служил со-столицей Караханидского государства в Чуйской долине?"
+    },
     "options": {
-      "A": "Balasagun",
-      "B": "Suyab",
-      "C": "Yangikent",
-      "D": "Sarai"
+      "A": {
+        "EN": "Balasagun",
+        "RU": "Баласагун"
+      },
+      "B": {
+        "EN": "Suyab",
+        "RU": "Суяб"
+      },
+      "C": {
+        "EN": "Yangikent",
+        "RU": "Янгикент"
+      },
+      "D": {
+        "EN": "Sarai",
+        "RU": "Сарай"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 83,
-    "question": "What architectural innovation became widespread in Central Asia during the Karakhanid period?",
+    "question": {
+      "EN": "What architectural innovation became widespread in Central Asia during the Karakhanid period?",
+      "RU": "Какое архитектурное нововведение получило широкое распространение в Центральной Азии в караханидский период?"
+    },
     "options": {
-      "A": "Use of baked brick (baked tile) and carved terracotta",
-      "B": "Cast iron pillars",
-      "C": "Glass skyscrapers",
-      "D": "Dry wooden log cabins"
+      "A": {
+        "EN": "Use of baked brick (baked tile) and carved terracotta",
+        "RU": "Использование жженого кирпича и резной терракоты"
+      },
+      "B": {
+        "EN": "Cast iron pillars",
+        "RU": "Чугунные колонны"
+      },
+      "C": {
+        "EN": "Glass skyscrapers",
+        "RU": "Стеклянные небоскребы"
+      },
+      "D": {
+        "EN": "Dry wooden log cabins",
+        "RU": "Сухие деревянные срубы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 84,
-    "question": "Which spiritual mentor of Ahmed Yasawi is buried in a mausoleum near Otrar?",
+    "question": {
+      "EN": "Which spiritual mentor of Ahmed Yasawi is buried in a mausoleum near Otrar?",
+      "RU": "Какой духовный наставник Ахмеда Ясави похоронен в мавзолее близ Отрара?"
+    },
     "options": {
-      "A": "Arystan Bab",
-      "B": "Ukash Ata",
-      "C": "Baba Tukti Shashty Aziz",
-      "D": "Ismail Ata"
+      "A": {
+        "EN": "Arystan Bab",
+        "RU": "Арыстан-баб"
+      },
+      "B": {
+        "EN": "Ukash Ata",
+        "RU": "Укаша-ата"
+      },
+      "C": {
+        "EN": "Baba Tukti Shashty Aziz",
+        "RU": "Баба Тукти Шашты Азиз"
+      },
+      "D": {
+        "EN": "Ismail Ata",
+        "RU": "Исмаил-ата"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 85,
-    "question": "What main trade good gave its name to the international trade route passing through Kazakhstan?",
+    "question": {
+      "EN": "What main trade good gave its name to the international trade route passing through Kazakhstan?",
+      "RU": "Какой главный предмет торговли дал название международному торговому пути, проходившему через Казахстан?"
+    },
     "options": {
-      "A": "Silk",
-      "B": "Spices",
-      "C": "Gold",
-      "D": "Fur"
+      "A": {
+        "EN": "Silk",
+        "RU": "Шелк"
+      },
+      "B": {
+        "EN": "Spices",
+        "RU": "Специи"
+      },
+      "C": {
+        "EN": "Gold",
+        "RU": "Золото"
+      },
+      "D": {
+        "EN": "Fur",
+        "RU": "Мех"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 86,
-    "question": "Roadside inns along the Silk Road where caravans could rest and protect their goods were called:",
+    "question": {
+      "EN": "Roadside inns along the Silk Road where caravans could rest and protect their goods were called:",
+      "RU": "Как назывались придорожные постоялые дворы на Шелковом пути, где караваны могли отдохнуть и защитить свои товары?"
+    },
     "options": {
-      "A": "Caravanserais",
-      "B": "Madrasas",
-      "C": "Hammams",
-      "D": "Sardobas"
+      "A": {
+        "EN": "Caravanserais",
+        "RU": "Караван-сараи"
+      },
+      "B": {
+        "EN": "Madrasas",
+        "RU": "Медресе"
+      },
+      "C": {
+        "EN": "Hammams",
+        "RU": "Хаммамы"
+      },
+      "D": {
+        "EN": "Sardobas",
+        "RU": "Сардобы"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 87,
-    "question": "Which river valley was considered the primary agricultural and urban belt of medieval Kazakhstan?",
+    "question": {
+      "EN": "Which river valley was considered the primary agricultural and urban belt of medieval Kazakhstan?",
+      "RU": "Долина какой реки считалась главной земледельческой и городской полосой средневекового Казахстана?"
+    },
     "options": {
-      "A": "Syr Darya Valley",
-      "B": "Tobol Valley",
-      "C": "Emba Valley",
-      "D": "Irtysh Delta"
+      "A": {
+        "EN": "Syr Darya Valley",
+        "RU": "Долина Сырдарьи"
+      },
+      "B": {
+        "EN": "Tobol Valley",
+        "RU": "Долина Тобола"
+      },
+      "C": {
+        "EN": "Emba Valley",
+        "RU": "Долина Эмбы"
+      },
+      "D": {
+        "EN": "Irtysh Delta",
+        "RU": "Дельта Иртыша"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 88,
-    "question": "Which medieval city on the Silk Road was renowned for its paper production and glassworks?",
+    "question": {
+      "EN": "Which medieval city on the Silk Road was renowned for its paper production and glassworks?",
+      "RU": "Какой средневековый город на Шелковом пути славился производством бумаги и изделий из стекла?"
+    },
     "options": {
-      "A": "Samarkand / Otrar",
-      "B": "Sarai-Batu",
-      "C": "Yangikent",
-      "D": "Ordu-Baliq"
+      "A": {
+        "EN": "Samarkand / Otrar",
+        "RU": "Самарканд / Отрар"
+      },
+      "B": {
+        "EN": "Sarai-Batu",
+        "RU": "Сарай-Бату"
+      },
+      "C": {
+        "EN": "Yangikent",
+        "RU": "Янгикент"
+      },
+      "D": {
+        "EN": "Ordu-Baliq",
+        "RU": "Орду-Балык"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 89,
-    "question": "What title was held by autonomous rulers under Karakhanid suzerainty?",
+    "question": {
+      "EN": "What title was held by autonomous rulers under Karakhanid suzerainty?",
+      "RU": "Какой титул носили автономные правители, находившиеся в вассальной зависимости от Караханидов?"
+    },
     "options": {
-      "A": "Ilek-Khan",
-      "B": "Baskak",
-      "C": "Nuqer",
-      "D": "Sultan"
+      "A": {
+        "EN": "Ilek-Khan",
+        "RU": "Илек-хан"
+      },
+      "B": {
+        "EN": "Baskak",
+        "RU": "Баскак"
+      },
+      "C": {
+        "EN": "Nuqer",
+        "RU": "Нукер"
+      },
+      "D": {
+        "EN": "Sultan",
+        "RU": "Султан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 90,
-    "question": "Which medieval polymath from Central Asia accurately calculated the earth's radius and authored 'India'?",
+    "question": {
+      "EN": "Which medieval polymath from Central Asia accurately calculated the earth's radius and authored 'India'?",
+      "RU": "Какой средневековый ученый-энциклопедист из Центральной Азии точно рассчитал радиус Земли и написал труд «Индия»?"
+    },
     "options": {
-      "A": "Abu Rayhan al-Biruni",
-      "B": "Al-Farabi",
-      "C": "Al-Khwarizmi",
-      "D": "Ibn Sina"
+      "A": {
+        "EN": "Abu Rayhan al-Biruni",
+        "RU": "Абу Райхан аль-Бируни"
+      },
+      "B": {
+        "EN": "Al-Farabi",
+        "RU": "Аль-Фараби"
+      },
+      "C": {
+        "EN": "Al-Khwarizmi",
+        "RU": "Аль-Хорезми"
+      },
+      "D": {
+        "EN": "Ibn Sina",
+        "RU": "Ибн Сина"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 91,
-    "question": "In what year was Temüjin proclaimed Genghis Khan at the Kurultai of Mongol chieftains?",
+    "question": {
+      "EN": "In what year was Temüjin proclaimed Genghis Khan at the Kurultai of Mongol chieftains?",
+      "RU": "В каком году Темучин был провозглашен Чингисханом на курултае монгольской знати?"
+    },
     "options": {
-      "A": "1206",
-      "B": "1219",
-      "C": "1227",
-      "D": "1240"
+      "A": {
+        "EN": "1206",
+        "RU": "1206 год"
+      },
+      "B": {
+        "EN": "1219",
+        "RU": "1219 год"
+      },
+      "C": {
+        "EN": "1227",
+        "RU": "1227 год"
+      },
+      "D": {
+        "EN": "1240",
+        "RU": "1240 год"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 92,
-    "question": "What tragic event in 1218 served as the primary pretext for Genghis Khan's invasion of Central Asia?",
+    "question": {
+      "EN": "What tragic event in 1218 served as the primary pretext for Genghis Khan's invasion of Central Asia?",
+      "RU": "Какое трагическое событие 1218 года послужило главным поводом для вторжения Чингисхана в Центральную Азию?"
+    },
     "options": {
-      "A": "Battle of Kalka",
-      "B": "Otrar Catastrophe",
-      "C": "Siege of Samarkand",
-      "D": "Battle of Kulikovo"
+      "A": {
+        "EN": "Battle of Kalka",
+        "RU": "Битва на Калке"
+      },
+      "B": {
+        "EN": "Otrar Catastrophe",
+        "RU": "Отрарская катастрофа"
+      },
+      "C": {
+        "EN": "Siege of Samarkand",
+        "RU": "Осада Самарканда"
+      },
+      "D": {
+        "EN": "Battle of Kulikovo",
+        "RU": "Куликовская битва"
+      }
     },
     "correctAnswer": "B"
   },
   {
     "id": 93,
-    "question": "Who was the ruler of Otrar who executed the Mongol trade caravan in 1218?",
+    "question": {
+      "EN": "Who was the ruler of Otrar who executed the Mongol trade caravan in 1218?",
+      "RU": "Кто был правителем Отрара, казнившим монгольский торговый караван в 1218 году?"
+    },
     "options": {
-      "A": "Qair Khan (Inalchuq)",
-      "B": "Muhammad II of Khwarazm",
-      "C": "Jalal al-Din Mangburni",
-      "D": "Esen Buqa"
+      "A": {
+        "EN": "Qair Khan (Inalchuq)",
+        "RU": "Каир-хан (Иналчук)"
+      },
+      "B": {
+        "EN": "Muhammad II of Khwarazm",
+        "RU": "Мухаммад II Хорезмшах"
+      },
+      "C": {
+        "EN": "Jalal al-Din Mangburni",
+        "RU": "Джалал ад-Дин Мангуберди"
+      },
+      "D": {
+        "EN": "Esen Buqa",
+        "RU": "Эсен-Буга"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 94,
-    "question": "Which son of Genghis Khan received the steppe lands extending west from the Irtysh River (Juchi Ulus)?",
+    "question": {
+      "EN": "Which son of Genghis Khan received the steppe lands extending west from the Irtysh River (Juchi Ulus)?",
+      "RU": "Какой сын Чингисхана получил степные земли к западу от реки Иртыш (улус Джучи)?"
+    },
     "options": {
-      "A": "Chagatai",
-      "B": "Juchi",
-      "C": "Ögedei",
-      "D": "Tolui"
+      "A": {
+        "EN": "Chagatai",
+        "RU": "Чагатай"
+      },
+      "B": {
+        "EN": "Juchi",
+        "RU": "Джучи"
+      },
+      "C": {
+        "EN": "Ögedei",
+        "RU": "Угедей"
+      },
+      "D": {
+        "EN": "Tolui",
+        "RU": "Толуй"
+      }
     },
     "correctAnswer": "B"
   },
   {
     "id": 95,
-    "question": "Who was the founder of the Golden Horde (Juchi Ulus) who led the Western campaign into Europe (1236–1242)?",
+    "question": {
+      "EN": "Who was the founder of the Golden Horde (Juchi Ulus) who led the Western campaign into Europe (1236–1242)?",
+      "RU": "Кто был основателем Золотой Орды (Улуса Джучи), возглавившим западный поход в Европу (1236–1242 гг.)?"
+    },
     "options": {
-      "A": "Batu Khan",
-      "B": "Berke Khan",
-      "C": "Ozbeg Khan",
-      "D": "Tokhtamysh Khan"
+      "A": {
+        "EN": "Batu Khan",
+        "RU": "Бату-хан"
+      },
+      "B": {
+        "EN": "Berke Khan",
+        "RU": "Берке-хан"
+      },
+      "C": {
+        "EN": "Ozbeg Khan",
+        "RU": "Узбек-хан"
+      },
+      "D": {
+        "EN": "Tokhtamysh Khan",
+        "RU": "Тохтамыш-хан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 96,
-    "question": "What city on the Lower Volga served as the first official capital of the Golden Horde?",
+    "question": {
+      "EN": "What city on the Lower Volga served as the first official capital of the Golden Horde?",
+      "RU": "Какой город на Нижней Волге служил первой официальной столицей Золотой Орды?"
+    },
     "options": {
-      "A": "Sarai-Batu",
-      "B": "Saraichik",
-      "C": "Sygnak",
-      "D": "Almaliq"
+      "A": {
+        "EN": "Sarai-Batu",
+        "RU": "Сарай-Бату"
+      },
+      "B": {
+        "EN": "Saraichik",
+        "RU": "Сарайчик"
+      },
+      "C": {
+        "EN": "Sygnak",
+        "RU": "Сыгнак"
+      },
+      "D": {
+        "EN": "Almaliq",
+        "RU": "Алмалык"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 97,
-    "question": "Which Golden Horde ruler officially adopted Islam as the state religion in 1312?",
+    "question": {
+      "EN": "Which Golden Horde ruler officially adopted Islam as the state religion in 1312?",
+      "RU": "Какой правитель Золотой Орды официально принял ислам в качестве государственной религии в 1312 году?"
+    },
     "options": {
-      "A": "Batu Khan",
-      "B": "Ozbeg Khan (Uzbek)",
-      "C": "Mengu-Timur",
-      "D": "Janibek Khan"
+      "A": {
+        "EN": "Batu Khan",
+        "RU": "Бату-хан"
+      },
+      "B": {
+        "EN": "Ozbeg Khan (Uzbek)",
+        "RU": "Узбек-хан"
+      },
+      "C": {
+        "EN": "Mengu-Timur",
+        "RU": "Менгу-Тимур"
+      },
+      "D": {
+        "EN": "Janibek Khan",
+        "RU": "Джанибек-хан"
+      }
     },
     "correctAnswer": "B"
   },
   {
     "id": 98,
-    "question": "What was the title of the Mongol tax collectors and military overseers sent to conquered territories?",
+    "question": {
+      "EN": "What was the title of the Mongol tax collectors and military overseers sent to conquered territories?",
+      "RU": "Как назывались монгольские сборщики налогов и военные надзиратели, направляемые на завоеванные территории?"
+    },
     "options": {
-      "A": "Baskaks (Darughachi)",
-      "B": "Atabegs",
-      "C": "Sultans",
-      "D": "Nuqers"
+      "A": {
+        "EN": "Baskaks (Darughachi)",
+        "RU": "Баскаки (даругачи)"
+      },
+      "B": {
+        "EN": "Atabegs",
+        "RU": "Атабеки"
+      },
+      "C": {
+        "EN": "Sultans",
+        "RU": "Султаны"
+      },
+      "D": {
+        "EN": "Nuqers",
+        "RU": "Нукеры"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 99,
-    "question": "Which state entity formed in East Desht-i Kipchak (Central and Southern Kazakhstan) in the 14th–15th centuries is considered the direct predecessor of the Kazakh Khanate?",
+    "question": {
+      "EN": "Which state entity formed in East Desht-i Kipchak (Central and Southern Kazakhstan) in the 14th–15th centuries is considered the direct predecessor of the Kazakh Khanate?",
+      "RU": "Какое государственное образование, сформировавшееся в Восточном Дешт-и Кипчаке (Центральный и Южный Казахстан) в XIV–XV веках, считается прямым предшественником Казахского ханства?"
+    },
     "options": {
-      "A": "Ak Orda (White Horde)",
-      "B": "Chagatai Ulus",
-      "C": "Ilkhanate",
-      "D": "Yuan Dynasty"
+      "A": {
+        "EN": "Ak Orda (White Horde)",
+        "RU": "Ак Орда (Белая Орда)"
+      },
+      "B": {
+        "EN": "Chagatai Ulus",
+        "RU": "Чагатайский улус"
+      },
+      "C": {
+        "EN": "Ilkhanate",
+        "RU": "Государство Хулагуидов (Ильханат)"
+      },
+      "D": {
+        "EN": "Yuan Dynasty",
+        "RU": "Династия Юань"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 100,
-    "question": "What city on the Syr Darya River served as the capital of Ak Orda (White Horde)?",
+    "question": {
+      "EN": "What city on the Syr Darya River served as the capital of Ak Orda (White Horde)?",
+      "RU": "Какой город на реке Сырдарья служил столицей Ак Орды (Белой Орды)?"
+    },
     "options": {
-      "A": "Sygnak",
-      "B": "Almaliq",
-      "C": "Balasagun",
-      "D": "Samarkand"
+      "A": {
+        "EN": "Sygnak",
+        "RU": "Сыгнак"
+      },
+      "B": {
+        "EN": "Almaliq",
+        "RU": "Алмалык"
+      },
+      "C": {
+        "EN": "Balasagun",
+        "RU": "Баласагун"
+      },
+      "D": {
+        "EN": "Samarkand",
+        "RU": "Самарканд"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 101,
-    "question": "Who was the oldest son of Juchi who became the ruler of the White Horde (Ak Orda)?",
+    "question": {
+      "EN": "Who was the oldest son of Juchi who became the ruler of the White Horde (Ak Orda)?",
+      "RU": "Кто был старшим сыном Джучи, ставшим правителем Ак Орды (Белой Орды)?"
+    },
     "options": {
-      "A": "Orda-Ichen",
-      "B": "Batu",
-      "C": "Berke",
-      "D": "Shiban"
+      "A": {
+        "EN": "Orda-Ichen",
+        "RU": "Орда-Ежен"
+      },
+      "B": {
+        "EN": "Batu",
+        "RU": "Бату"
+      },
+      "C": {
+        "EN": "Berke",
+        "RU": "Берке"
+      },
+      "D": {
+        "EN": "Shiban",
+        "RU": "Шибан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 102,
-    "question": "Which ruler of Ak Orda significantly strengthened its independence from the Golden Horde in the 1360s–1370s and minted his own coins in Sygnak?",
+    "question": {
+      "EN": "Which ruler of Ak Orda significantly strengthened its independence from the Golden Horde in the 1360s–1370s and minted his own coins in Sygnak?",
+      "RU": "Какой правитель Ак Орды значительно укрепил ее независимость от Золотой Орды в 1360–1370-х годах и чеканил собственную монету в Сыгнаке?"
+    },
     "options": {
-      "A": "Urus Khan",
-      "B": "Tokhtamysh",
-      "C": "Edigu",
-      "D": "Abulkhair"
+      "A": {
+        "EN": "Urus Khan",
+        "RU": "Урус-хан"
+      },
+      "B": {
+        "EN": "Tokhtamysh",
+        "RU": "Тохтамыш"
+      },
+      "C": {
+        "EN": "Edigu",
+        "RU": "Едигей"
+      },
+      "D": {
+        "EN": "Abulkhair",
+        "RU": "Абулхаир"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 103,
-    "question": "Which Central Asian conqueror severely weakened the Golden Horde and Ak Orda through a series of devastating campaigns in the late 14th century?",
+    "question": {
+      "EN": "Which Central Asian conqueror severely weakened the Golden Horde and Ak Orda through a series of devastating campaigns in the late 14th century?",
+      "RU": "Какой среднеазиатский завоеватель сильно ослабил Золотую Орду и Ак Орду чередой опустошительных походов в конце XIV века?"
+    },
     "options": {
-      "A": "Amir Timur (Tamerlane)",
-      "B": "Genghis Khan",
-      "C": "Hulagu Khan",
-      "D": "Modu Chanyu"
+      "A": {
+        "EN": "Amir Timur (Tamerlane)",
+        "RU": "Амир Тимур (Тамерлан)"
+      },
+      "B": {
+        "EN": "Genghis Khan",
+        "RU": "Чингисхан"
+      },
+      "C": {
+        "EN": "Hulagu Khan",
+        "RU": "Хулагу-хан"
+      },
+      "D": {
+        "EN": "Modu Chanyu",
+        "RU": "Модэ Шаньюй"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 104,
-    "question": "In which decisive battle in 1395 did Amir Timur defeat Tokhtamysh Khan, leading to the economic decline of the Golden Horde?",
+    "question": {
+      "EN": "In which decisive battle in 1395 did Amir Timur defeat Tokhtamysh Khan, leading to the economic decline of the Golden Horde?",
+      "RU": "В какой решающей битве в 1395 году Амир Тимур разгромил Тохтамыш-хана, что привело к экономическому упаду Золотой Орды?"
+    },
     "options": {
-      "A": "Battle of the Terek River",
-      "B": "Battle of Kulikovo",
-      "C": "Battle of Bulanty",
-      "D": "Battle of Anyrakai"
+      "A": {
+        "EN": "Battle of the Terek River",
+        "RU": "Битва на реке Терек"
+      },
+      "B": {
+        "EN": "Battle of Kulikovo",
+        "RU": "Куликовская битва"
+      },
+      "C": {
+        "EN": "Battle of Bulanty",
+        "RU": "Булантинская битва"
+      },
+      "D": {
+        "EN": "Battle of Anyrakai",
+        "RU": "Анракайская битва"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 105,
-    "question": "Which state was established in Southeastern Kazakhstan (Zhetysu) and East Turkestan in the mid-14th century following the division of Chagatai Ulus?",
+    "question": {
+      "EN": "Which state was established in Southeastern Kazakhstan (Zhetysu) and East Turkestan in the mid-14th century following the division of Chagatai Ulus?",
+      "RU": "Какое государство было создано на Юго-Востоке Казахстана (Семиречье) и в Восточном Туркестане в середине XIV века после распада Чагатайского улуса?"
+    },
     "options": {
-      "A": "Moghulistan",
-      "B": "Nogai Horde",
-      "C": "Khwarazm",
-      "D": "Kimek Khaganate"
+      "A": {
+        "EN": "Moghulistan",
+        "RU": "Могулистан"
+      },
+      "B": {
+        "EN": "Nogai Horde",
+        "RU": "Ногайская Орда"
+      },
+      "C": {
+        "EN": "Khwarazm",
+        "RU": "Хорезм"
+      },
+      "D": {
+        "EN": "Kimek Khaganate",
+        "RU": "Кимакский каганат"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 106,
-    "question": "Who was the founder and first ruler of Moghulistan in 1348?",
+    "question": {
+      "EN": "Who was the founder and first ruler of Moghulistan in 1348?",
+      "RU": "Кто был основателем и первым правителем Могулистана в 1348 году?"
+    },
     "options": {
-      "A": "Tughlugh Timur",
-      "B": "Esen Buqa",
-      "C": "Yunus Khan",
-      "D": "Qamar al-Din"
+      "A": {
+        "EN": "Tughluq Timur Khan",
+        "RU": "Туглук-Тимур-хан"
+      },
+      "B": {
+        "EN": "Esen Buqa",
+        "RU": "Эсен-Буга"
+      },
+      "C": {
+        "EN": "Vais Khan",
+        "RU": "Вайс-хан"
+      },
+      "D": {
+        "EN": "Bora Khan",
+        "RU": "Бора-хан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 107,
-    "question": "What city served as the administrative center and capital of Moghulistan in the Ili River valley?",
+    "question": {
+      "EN": "Which influential Dughlat emir played a kingmaker role in the establishment and early politics of Moghulistan?",
+      "RU": "Какой влиятельный эмир из племени дулат сыграл решающую роль в создании и ранней политике Могулистана?"
+    },
     "options": {
-      "A": "Almaliq",
-      "B": "Sygnak",
-      "C": "Saraichik",
-      "D": "Otrar"
+      "A": {
+        "EN": "Amir Puladchi",
+        "RU": "Эмир Пуладчи"
+      },
+      "B": {
+        "EN": "Edigu",
+        "RU": "Едигей"
+      },
+      "C": {
+        "EN": "Mamai",
+        "RU": "Мамай"
+      },
+      "D": {
+        "EN": "Qara Yوسف",
+        "RU": "Кара-Юсуф"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 108,
-    "question": "Which Moghulistan ruler welcomed Kerey and Zhanibek in the late 1450s and allocated them lands in Zhetysu (Chu and Kozybashi)?",
+    "question": {
+      "EN": "Which nomadic state formed in the western parts of Kazakhstan (between the Ural and Volga rivers) in the 14th–15th centuries?",
+      "RU": "Какое кочевое государство сформировалось в западных частях Казахстана (между Уралом и Волгой) в XIV–XV веках?"
+    },
     "options": {
-      "A": "Esen Buqa II",
-      "B": "Tughlugh Timur",
-      "C": "Yunus Khan",
-      "D": "Mansur Khan"
+      "A": {
+        "EN": "Nogai Horde (Mangyt Yurt)",
+        "RU": "Ногайская Орда (Мангытский юрт)"
+      },
+      "B": {
+        "EN": "Karakhanid State",
+        "RU": "Государство Караханидов"
+      },
+      "C": {
+        "EN": "Turgesh Khaganate",
+        "RU": "Тюргешский каганат"
+      },
+      "D": {
+        "EN": "Wusun State",
+        "RU": "Государство усуней"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 109,
-    "question": "Which tribal state emerged in Western Kazakhstan between the Yaik (Ural) and Volga Rivers after the collapse of the Golden Horde?",
+    "question": {
+      "EN": "Who was the founder of the Abulkhair Khanate (Khanate of the Uzbeks) in the 1420s?",
+      "RU": "Кто был основателем Ханства Абулхаира (Узбекского улуса) в 1420-х годах?"
+    },
     "options": {
-      "A": "Nogai Horde",
-      "B": "Moghulistan",
-      "C": "Siberian Khanate",
-      "D": "Kazakh Khanate"
+      "A": {
+        "EN": "Abulkhair Khan",
+        "RU": "Абулхаир-хан"
+      },
+      "B": {
+        "EN": "Baraq Khan",
+        "RU": "Барак-хан"
+      },
+      "C": {
+        "EN": "Urus Khan",
+        "RU": "Урус-хан"
+      },
+      "D": {
+        "EN": "Janybek Khan",
+        "RU": "Жанибек-хан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 110,
-    "question": "Who was the famous Emir and military commander who founded the Nogai Horde and served as kingmaker in the Golden Horde?",
+    "question": {
+      "EN": "What major military setback did Abulkhair Khan suffer in 1457 against the Oirats (Kalmyks) near Sygnak?",
+      "RU": "Какое крупное военное поражение потерпел Абулхаир-хан в 1457 году от ойратов (калмыков) близ Сыгнака?"
+    },
     "options": {
-      "A": "Edigu (Edege)",
-      "B": "Nogai Khan",
-      "C": "Mamai",
-      "D": "Tokhtamysh"
+      "A": {
+        "EN": "Battle of Sygnak (defeat and forced humiliating treaty)",
+        "RU": "Битва под Сыгнаком (поражение и унизительный договор)"
+      },
+      "B": {
+        "EN": "Battle of Terek",
+        "RU": "Битва на Тереке"
+      },
+      "C": {
+        "EN": "Battle of Qatwan",
+        "RU": "Катванская битва"
+      },
+      "D": {
+        "EN": "Battle of Talas",
+        "RU": "Таласская битва"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 111,
-    "question": "What historic city on the Yaik (Ural) River served as the capital and pantheon of rulers of the Nogai Horde?",
+    "question": {
+      "EN": "Which two sultans led the migration of a portion of the tribes from Abulkhair's state to Moghulistan, leading to the birth of the Kazakh Khanate?",
+      "RU": "Какие два султана возглавили откочевку части племен из государства Абулхаира в Могулистан, что привело к рождению Казахского ханства?"
+    },
     "options": {
-      "A": "Saraichik (Sarayshyq)",
-      "B": "Sygnak",
-      "C": "Turkestan",
-      "D": "Suyab"
+      "A": {
+        "EN": "Kerei and Janybek",
+        "RU": "Керей и Жанибек"
+      },
+      "B": {
+        "EN": "Kasym and Tambyl",
+        "RU": "Касым и Тауке"
+      },
+      "C": {
+        "EN": "Burunduq and Qasim",
+        "RU": "Бурындык и Касым"
+      },
+      "D": {
+        "EN": "Urus and Baraq",
+        "RU": "Урус и Барак"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 112,
-    "question": "Which main Turkic-Mongol tribal confederation constituted the core population of the Nogai Horde?",
+    "question": {
+      "EN": "In what approximate year was the Kazakh Khanate officially established in the Zhetysu region?",
+      "RU": "В каком приблизительно году было официально образовано Казахское ханство в Семиречье?"
+    },
     "options": {
-      "A": "Manghits (Mangyts)",
-      "B": "Karluks",
-      "C": "Kereits",
-      "D": "Naimans"
+      "A": {
+        "EN": "1465–1466",
+        "RU": "1465–1466 годы"
+      },
+      "B": {
+        "EN": "1206",
+        "RU": "1206 год"
+      },
+      "C": {
+        "EN": "1510",
+        "RU": "1510 год"
+      },
+      "D": {
+        "EN": "1723",
+        "RU": "1723 год"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 113,
-    "question": "Who established the State of Nomadic Uzbeks (Abulkhair Khanate) in 1428?",
+    "question": {
+      "EN": "Who was the first official Khan of the Kazakh Khanate?",
+      "RU": "Кто был первым официальным ханом Казахского ханства?"
+    },
     "options": {
-      "A": "Abulkhair Khan",
-      "B": "Baraq Khan",
-      "C": "Muhammad Shaybani",
-      "D": "Kerey Khan"
+      "A": {
+        "EN": "Kerei Khan",
+        "RU": "Керей-хан"
+      },
+      "B": {
+        "EN": "Janybek Khan",
+        "RU": "Жанибек-хан"
+      },
+      "C": {
+        "EN": "Kasym Khan",
+        "RU": "Касым-хан"
+      },
+      "D": {
+        "EN": "Burunduq Khan",
+        "RU": "Бурындык-хан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 114,
-    "question": "What vast region formed the territorial core of the Khanate of Abulkhair (State of Nomadic Uzbeks)?",
+    "question": {
+      "EN": "Which ruler of Moghulistan granted pastures in the Chu and Talas river valleys to Kerei and Janybek?",
+      "RU": "Какой правитель Могулистана предоставил пастбища в долинах рек Чу и Талас Керею и Жанибеку?"
+    },
     "options": {
-      "A": "From the Tobol River in the north to the Syr Darya in the south",
-      "B": "Fergana Valley",
-      "C": "Crimean Peninsula",
-      "D": "Tarim Basin"
+      "A": {
+        "EN": "Esen Buqa Khan",
+        "RU": "Эсен-Буга-хан"
+      },
+      "B": {
+        "EN": "Tughluq Timur",
+        "RU": "Туглук-Тимур"
+      },
+      "C": {
+        "EN": "Vais Khan",
+        "RU": "Вайс-хан"
+      },
+      "D": {
+        "EN": "Yunus Khan",
+        "RU": "Юнус-хан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 115,
-    "question": "Which city became the strategic capital of the Abulkhair Khanate in 1446?",
+    "question": {
+      "EN": "Under which Kazakh Khan did the khanate reach its peak territorial expansion and political power in the early 16th century?",
+      "RU": "При каком казахском хане ханство достигло пика своего территориального расширения и политического могущества в начале XVI века?"
+    },
     "options": {
-      "A": "Sygnak",
-      "B": "Tura",
-      "C": "Saraichik",
-      "D": "Almaliq"
+      "A": {
+        "EN": "Kasym Khan",
+        "RU": "Касым-хан"
+      },
+      "B": {
+        "EN": "Haq-Nazar Khan",
+        "RU": "Хак-Назар-хан"
+      },
+      "C": {
+        "EN": "Esim Khan",
+        "RU": "Есим-хан"
+      },
+      "D": {
+        "EN": "Tauke Khan",
+        "RU": "Тауке-хан"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 116,
-    "question": "Which nomadic group defeated Abulkhair Khan near Sygnak in 1457, causing internal crisis in his state?",
+    "question": {
+      "EN": "What was the name of the first written legal code of the Kazakh Khanate compiled under Kasym Khan ('Bright Road of Kasym Khan')?",
+      "RU": "Как назывался первый свод законов Казахского ханства, составленный при Касым-хане («Касқа жол» / «Светлый путь Касым-хана»)?"
+    },
     "options": {
-      "A": "Oirats (Dzungars) led by Uz-Timur Taishi",
-      "B": "Timurids",
-      "C": "Ottomans",
-      "D": "Mamluks"
+      "A": {
+        "EN": "Kasym Khan's Bright Road (Qasqa Zholy)",
+        "RU": "«Қасқа жол» (Светлый путь Касым-хана)"
+      },
+      "B": {
+        "EN": "Zheti Jargy",
+        "RU": "«Жеті жарғы»"
+      },
+      "C": {
+        "EN": "Great Yassa",
+        "RU": "Великая Яса"
+      },
+      "D": {
+        "EN": "Sharia Code",
+        "RU": "Кодекс шариата"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 117,
-    "question": "What major political event occurred in 1459–1460 as a protest against Abulkhair Khan's rule?",
+    "question": {
+      "EN": "Which major southern urban centers were successfully incorporated into the Kazakh Khanate during the reign of Kasym Khan?",
+      "RU": "Какие крупные южные городские центры были успешно включены в состав Казахского ханства в период правления Касым-хана?"
+    },
     "options": {
-      "A": "Migration of sultans Kerey and Zhanibek to Zhetysu",
-      "B": "Establishment of the Golden Horde",
-      "C": "Invasion of Genghis Khan",
-      "D": "Adoption of Islam by Uzbek Khan"
+      "A": {
+        "EN": "Sygnak, Turkestan, and cities along the middle Syr Darya",
+        "RU": "Сыгнак, Туркестан и города по среднему течению Сырдарьи"
+      },
+      "B": {
+        "EN": "Samarkand and Bukhara permanently",
+        "RU": "Самарканд и Бухара на постоянной основе"
+      },
+      "C": {
+        "EN": "Sarai-Batu and Astrakhan",
+        "RU": "Сарай-Бату и Астрахань"
+      },
+      "D": {
+        "EN": "Almaliq and Kashgar",
+        "RU": "Алмалык и Кашгар"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 118,
-    "question": "What code of laws promulgated by Genghis Khan governed political and social life across the Mongol Empire?",
+    "question": {
+      "EN": "Approximately how many subjects (population) did the Kazakh Khanate have during the height of Kasym Khan's reign, according to historical accounts?",
+      "RU": "Какова была примерная численность населения Казахского ханства в период расцвета правления Касым-хана, по свидетельствам историков?"
+    },
     "options": {
-      "A": "Great Yassa (Jasaq)",
-      "B": "Zheti Zhargy",
-      "C": "Qasqa Zholy",
-      "D": "Eski Zholy"
+      "A": {
+        "EN": "Around 1 million people",
+        "RU": "Около 1 миллиона человек"
+      },
+      "B": {
+        "EN": "50,000 people",
+        "RU": "50 000 человек"
+      },
+      "C": {
+        "EN": "10 million people",
+        "RU": "10 миллионов человек"
+      },
+      "D": {
+        "EN": "5,000 people",
+        "RU": "5 000 человек"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 119,
-    "question": "In what year did the Battle of Kulikovo take place between the Golden Horde forces under Mamai and Muscovite forces?",
+    "question": {
+      "EN": "Who authored the famous 16th-century Persian historical chronicle 'Tarikh-i Rashidi', which provides primary accounts of Moghulistan and the founding of the Kazakh Khanate?",
+      "RU": "Кто является автором знаменитой персидской исторической хроники XVI века «Тарих-и Рашиди», содержащей основные сведения о Могулистане и создании Казахского ханства?"
+    },
     "options": {
-      "A": "1380",
-      "B": "1240",
-      "C": "1480",
-      "D": "1502"
+      "A": {
+        "EN": "Muhammad Haidar Dughlat",
+        "RU": "Мухаммад Хайдар Дуглат"
+      },
+      "B": {
+        "EN": "Kadyrgali JalairI",
+        "RU": "Кадыргали Жалайри"
+      },
+      "C": {
+        "EN": "Otemish Haji",
+        "RU": "Утемиш-хаджи"
+      },
+      "D": {
+        "EN": "Zahir al-Din Babur",
+        "RU": "Захир ад-Дин Бабур"
+      }
     },
     "correctAnswer": "A"
   },
   {
     "id": 120,
-    "question": "Which event in 1480 marked the final end of Mongol-Tatar suzerainty over Russian lands?",
+    "question": {
+      "EN": "What political designation did the Kazakh population adopt to symbolize their independent nomadic statehood ('free wanderers/free men')?",
+      "RU": "Какое политическое название приняли казахи, символизирующее их независимую кочевую государственность («свободные странники / вольные люди»)?"
+    },
     "options": {
-      "A": "Great Stand on the Ugra River",
-      "B": "Battle of the Terek River",
-      "C": "Siege of Otrar",
-      "D": "Battle of Mohi"
+      "A": {
+        "EN": "Kazakh (Cossack / Free people)",
+        "RU": "Қазақ (Казах / Вольные люди)"
+      },
+      "B": {
+        "EN": "Sart",
+        "RU": "Саррт"
+      },
+      "C": {
+        "EN": "Tarkhan",
+        "RU": "Тархан"
+      },
+      "D": {
+        "EN": "Baskak",
+        "RU": "Баскак"
+      }
     },
     "correctAnswer": "A"
   }
